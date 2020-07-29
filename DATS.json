@@ -1,0 +1,4538 @@
+{
+  "title": "High Resolution Magnetic Resonance Imaging of Mouse Model related to Autism",
+  "description": "This dataset includes 31 mouse models representing 23 genotypes from their ongoing study of 90+ mouse strains",
+  "dates": [
+    {
+      "date": "2018-02-01",
+      "type": {
+        "value": "Release Date"
+      }
+    },
+    {
+      "date": "2012-02-01",
+      "type": {
+        "value": "Start Date"
+      }
+    },
+    {
+      "date": "2017-02-01",
+      "type": {
+        "value": "End Date"
+      }
+    }
+  ],
+  "storedIn": {
+    "name": "Brain-CODE",
+    "description": "Informatics platform for neuroscience data managed by the Ontario Brain Institute",
+    "publishers": [
+      {
+        "name": "Ontario Brain Institute",
+        "abbreviation": "OBI"
+      }
+    ]
+  },
+  "spatialCoverage": [
+    {
+      "name": "Toronto"
+    }
+  ],
+  "types": [
+    {
+      "information": {
+        "value": "MRI"
+      }
+    },
+    {
+      "information": {
+        "value": "Study Information"
+      }
+    }
+  ],
+  "availability": "available",
+  "refinement": "Data provided includes both the raw data acquired from the scanner as well as the outputs of our registration process",
+  "aggregation": "instance of dataset",
+  "privacy": "Registered access",
+  "distributions": [
+    {
+      "formats": [
+        "MINC",
+        "CSV"
+      ],
+      "size": 208.901,
+      "unit": {
+        "value": "GB"
+      },
+      "access": {
+        "landingPage": "https://www.braincode.ca/",
+        "authorizations": [
+          {
+            "value": "Public"
+          }
+        ]
+      }
+    }
+  ],
+  "creators": [
+    {
+      "name": "Ontario Brain Institute",
+      "abbreviation": "OBI",
+      "location": {
+        "name": "Toronto",
+        "postalAddress": "1 Richmond Street West"
+      }
+    },
+    {
+      "name": "Mouse Imaging Centre",
+      "abbreviation": "MICe",
+      "location": {
+        "name": "Toronto",
+        "postalAddress": "25 Orde Street"
+      }
+    }
+  ],
+  "licenses": [
+    {
+      "name": "Refer to Brain-CODE Governance Policy"
+    }
+  ],
+  "acknowledges": [
+    {
+      "name": "",
+      "funders": [
+        {
+          "name": "Ontario Brain Institute",
+          "abbreviation": "OBI",
+          "location": {
+            "name": "Toronto",
+            "postalAddress": "1 Richmond Street West"
+          }
+        },
+        {
+          "name": "Province of Ontario Neurodevelopmental Disorders",
+          "abbreviation": "POND"
+        },
+        {
+          "name": "Government of Ontario"
+        }
+      ]
+    }
+  ],
+  "keywords": [
+    {
+      "value": "Structural MRI"
+    }
+  ],
+  "extraProperties": [
+    {
+      "category": "subjects",
+      "values": [
+        {
+          "value": 839
+        }
+      ]
+    },
+    {
+      "category": "files",
+      "values": [
+        {
+          "value": 4299
+        }
+      ]
+    },
+    {
+      "category": "CONP_status",
+      "values": [
+        {
+          "value": "CONP"
+        }
+      ]
+    },
+    {
+      "category": "contact",
+      "values": [
+        {
+          "value": "Jacob Ellegood, Research Associate, jacob.ellegood@sickkids.ca"
+        }
+      ]
+    },
+    {
+      "category": "logo",
+      "values": [
+        {
+          "value": "logo.png"
+        }
+      ]
+    }
+  ],
+  "version": "1.0",
+  "hasPart": [
+    {
+      "title": "High Resolution MRI of Mouse Models Related to Autism - PND12",
+      "description": "Neuroimaging study of 15q11-13 Duplication Mouse Model (patDp/+)",
+      "dates": [
+        {
+          "date": "2018-02-01",
+          "type": {
+            "value": "Release Date"
+          }
+        },
+        {
+          "date": "2012-02-01",
+          "type": {
+            "value": "Start Date"
+          }
+        },
+        {
+          "date": "2017-02-01",
+          "type": {
+            "value": "End Date"
+          }
+        }
+      ],
+      "storedIn": {
+        "name": "Brain-CODE",
+        "description": "Informatics platform for neuroscience data managed by the Ontario Brain Institute",
+        "publishers": [
+          {
+            "name": "Ontario Brain Institute",
+            "abbreviation": "OBI"
+          }
+        ]
+      },
+      "spatialCoverage": [
+        {
+          "name": "Toronto"
+        }
+      ],
+      "types": [
+        {
+          "information": {
+            "value": "MRI"
+          }
+        },
+        {
+          "information": {
+            "value": "Study Information"
+          }
+        }
+      ],
+      "availability": "available",
+      "refinement": "Data provided includes both the raw data acquired from the scanner as well as the outputs of our registration process",
+      "aggregation": "instance of dataset",
+      "privacy": "Registered access",
+      "distributions": [
+        {
+          "formats": [
+            "MINC",
+            "CSV"
+          ],
+          "size": 3.109,
+          "unit": {
+            "value": "GB"
+          },
+          "access": {
+            "landingPage": "https://www.braincode.ca/",
+            "authorizations": [
+              {
+                "value": "Public"
+              }
+            ]
+          }
+        }
+      ],
+      "creators": [
+        {
+          "name": "Ontario Brain Institute",
+          "abbreviation": "OBI",
+          "location": {
+            "name": "Toronto",
+            "postalAddress": "1 Richmond Street West"
+          }
+        },
+        {
+          "name": "Mouse Imaging Centre",
+          "abbreviation": "MICe",
+          "location": {
+            "name": "Toronto",
+            "postalAddress": "25 Orde Street"
+          }
+        }
+      ],
+      "licenses": [
+        {
+          "name": "Refer to Brain-CODE Governance Policy"
+        }
+      ],
+      "acknowledges": [
+        {
+          "name": "",
+          "funders": [
+            {
+              "name": "Ontario Brain Institute",
+              "abbreviation": "OBI",
+              "location": {
+                "name": "Toronto",
+                "postalAddress": "1 Richmond Street West"
+              }
+            },
+            {
+              "name": "Province of Ontario Neurodevelopmental Disorders",
+              "abbreviation": "POND"
+            },
+            {
+              "name": "Government of Ontario"
+            }
+          ]
+        }
+      ],
+      "keywords": [
+        {
+          "value": "Structural MRI"
+        }
+      ],
+      "extraProperties": [
+        {
+          "category": "subjects",
+          "values": [
+            {
+              "value": 20
+            }
+          ]
+        },
+        {
+          "category": "files",
+          "values": [
+            {
+              "value": 104
+            }
+          ]
+        },
+        {
+          "category": "CONP_status",
+          "values": [
+            {
+              "value": "CONP"
+            }
+          ]
+        },
+        {
+          "category": "contact",
+          "values": [
+            {
+              "value": "Jacob Ellegood, Research Associate, jacob.ellegood@sickkids.ca"
+            }
+          ]
+        },
+        {
+          "category": "logo",
+          "values": [
+            {
+              "value": "logo.png"
+            }
+          ]
+        }
+      ],
+      "version": "1.0"
+    },
+    {
+      "title": "High Resolution MRI of Mouse Models Related to Autism - PND13",
+      "description": "Neuroimaging study of 15q11-13 Duplication Mouse Model (matDp/+)",
+      "dates": [
+        {
+          "date": "2018-02-01",
+          "type": {
+            "value": "Release Date"
+          }
+        },
+        {
+          "date": "2012-02-01",
+          "type": {
+            "value": "Start Date"
+          }
+        },
+        {
+          "date": "2017-02-01",
+          "type": {
+            "value": "End Date"
+          }
+        }
+      ],
+      "storedIn": {
+        "name": "Brain-CODE",
+        "description": "Informatics platform for neuroscience data managed by the Ontario Brain Institute",
+        "publishers": [
+          {
+            "name": "Ontario Brain Institute",
+            "abbreviation": "OBI"
+          }
+        ]
+      },
+      "spatialCoverage": [
+        {
+          "name": "Toronto"
+        }
+      ],
+      "types": [
+        {
+          "information": {
+            "value": "MRI"
+          }
+        },
+        {
+          "information": {
+            "value": "Study Information"
+          }
+        }
+      ],
+      "availability": "available",
+      "refinement": "Data provided includes both the raw data acquired from the scanner as well as the outputs of our registration process",
+      "aggregation": "instance of dataset",
+      "privacy": "Registered access",
+      "distributions": [
+        {
+          "formats": [
+            "MINC",
+            "CSV"
+          ],
+          "size": 2.855,
+          "unit": {
+            "value": "GB"
+          },
+          "access": {
+            "landingPage": "https://www.braincode.ca/",
+            "authorizations": [
+              {
+                "value": "Public"
+              }
+            ]
+          }
+        }
+      ],
+      "creators": [
+        {
+          "name": "Ontario Brain Institute",
+          "abbreviation": "OBI",
+          "location": {
+            "name": "Toronto",
+            "postalAddress": "1 Richmond Street West"
+          }
+        },
+        {
+          "name": "Mouse Imaging Centre",
+          "abbreviation": "MICe",
+          "location": {
+            "name": "Toronto",
+            "postalAddress": "25 Orde Street"
+          }
+        }
+      ],
+      "licenses": [
+        {
+          "name": "Refer to Brain-CODE Governance Policy"
+        }
+      ],
+      "acknowledges": [
+        {
+          "name": "",
+          "funders": [
+            {
+              "name": "Ontario Brain Institute",
+              "abbreviation": "OBI",
+              "location": {
+                "name": "Toronto",
+                "postalAddress": "1 Richmond Street West"
+              }
+            },
+            {
+              "name": "Province of Ontario Neurodevelopmental Disorders",
+              "abbreviation": "POND"
+            },
+            {
+              "name": "Government of Ontario"
+            }
+          ]
+        }
+      ],
+      "keywords": [
+        {
+          "value": "Structural MRI"
+        }
+      ],
+      "extraProperties": [
+        {
+          "category": "subjects",
+          "values": [
+            {
+              "value": 17
+            }
+          ]
+        },
+        {
+          "category": "files",
+          "values": [
+            {
+              "value": 89
+            }
+          ]
+        },
+        {
+          "category": "CONP_status",
+          "values": [
+            {
+              "value": "CONP"
+            }
+          ]
+        },
+        {
+          "category": "contact",
+          "values": [
+            {
+              "value": "Jacob Ellegood, Research Associate, jacob.ellegood@sickkids.ca"
+            }
+          ]
+        },
+        {
+          "category": "logo",
+          "values": [
+            {
+              "value": "logo.png"
+            }
+          ]
+        }
+      ],
+      "version": "1.0"
+    },
+    {
+      "title": "High Resolution MRI of Mouse Models Related to Autism - PND14",
+      "description": "Neuroimaging study of 16p11.2 Mouse Model (df/+, df/dp, dp/+)",
+      "dates": [
+        {
+          "date": "2018-02-01",
+          "type": {
+            "value": "Release Date"
+          }
+        },
+        {
+          "date": "2012-02-01",
+          "type": {
+            "value": "Start Date"
+          }
+        },
+        {
+          "date": "2017-02-01",
+          "type": {
+            "value": "End Date"
+          }
+        }
+      ],
+      "storedIn": {
+        "name": "Brain-CODE",
+        "description": "Informatics platform for neuroscience data managed by the Ontario Brain Institute",
+        "publishers": [
+          {
+            "name": "Ontario Brain Institute",
+            "abbreviation": "OBI"
+          }
+        ]
+      },
+      "spatialCoverage": [
+        {
+          "name": "Toronto"
+        }
+      ],
+      "types": [
+        {
+          "information": {
+            "value": "MRI"
+          }
+        },
+        {
+          "information": {
+            "value": "Study Information"
+          }
+        }
+      ],
+      "availability": "available",
+      "refinement": "Data provided includes both the raw data acquired from the scanner as well as the outputs of our registration process",
+      "aggregation": "instance of dataset",
+      "privacy": "Registered access",
+      "distributions": [
+        {
+          "formats": [
+            "MINC",
+            "CSV"
+          ],
+          "size": 4.296,
+          "unit": {
+            "value": "GB"
+          },
+          "access": {
+            "landingPage": "https://www.braincode.ca/",
+            "authorizations": [
+              {
+                "value": "Public"
+              }
+            ]
+          }
+        }
+      ],
+      "creators": [
+        {
+          "name": "Ontario Brain Institute",
+          "abbreviation": "OBI",
+          "location": {
+            "name": "Toronto",
+            "postalAddress": "1 Richmond Street West"
+          }
+        },
+        {
+          "name": "Mouse Imaging Centre",
+          "abbreviation": "MICe",
+          "location": {
+            "name": "Toronto",
+            "postalAddress": "25 Orde Street"
+          }
+        }
+      ],
+      "licenses": [
+        {
+          "name": "Refer to Brain-CODE Governance Policy"
+        }
+      ],
+      "acknowledges": [
+        {
+          "name": "",
+          "funders": [
+            {
+              "name": "Ontario Brain Institute",
+              "abbreviation": "OBI",
+              "location": {
+                "name": "Toronto",
+                "postalAddress": "1 Richmond Street West"
+              }
+            },
+            {
+              "name": "Province of Ontario Neurodevelopmental Disorders",
+              "abbreviation": "POND"
+            },
+            {
+              "name": "Government of Ontario"
+            }
+          ]
+        }
+      ],
+      "keywords": [
+        {
+          "value": "Structural MRI"
+        }
+      ],
+      "extraProperties": [
+        {
+          "category": "subjects",
+          "values": [
+            {
+              "value": 31
+            }
+          ]
+        },
+        {
+          "category": "files",
+          "values": [
+            {
+              "value": 159
+            }
+          ]
+        },
+        {
+          "category": "CONP_status",
+          "values": [
+            {
+              "value": "CONP"
+            }
+          ]
+        },
+        {
+          "category": "contact",
+          "values": [
+            {
+              "value": "Jacob Ellegood, Research Associate, jacob.ellegood@sickkids.ca"
+            }
+          ]
+        },
+        {
+          "category": "logo",
+          "values": [
+            {
+              "value": "logo.png"
+            }
+          ]
+        }
+      ],
+      "version": "1.0"
+    },
+    {
+      "title": "High Resolution MRI of Mouse Models Related to Autism - PND15",
+      "description": "Neuroimaging study of 22q11.2 Microdeletion Mouse Model (df/+)",
+      "dates": [
+        {
+          "date": "2018-02-01",
+          "type": {
+            "value": "Release Date"
+          }
+        },
+        {
+          "date": "2012-02-01",
+          "type": {
+            "value": "Start Date"
+          }
+        },
+        {
+          "date": "2017-02-01",
+          "type": {
+            "value": "End Date"
+          }
+        }
+      ],
+      "storedIn": {
+        "name": "Brain-CODE",
+        "description": "Informatics platform for neuroscience data managed by the Ontario Brain Institute",
+        "publishers": [
+          {
+            "name": "Ontario Brain Institute",
+            "abbreviation": "OBI"
+          }
+        ]
+      },
+      "spatialCoverage": [
+        {
+          "name": "Toronto"
+        }
+      ],
+      "types": [
+        {
+          "information": {
+            "value": "MRI"
+          }
+        },
+        {
+          "information": {
+            "value": "Study Information"
+          }
+        }
+      ],
+      "availability": "available",
+      "refinement": "Data provided includes both the raw data acquired from the scanner as well as the outputs of our registration process",
+      "aggregation": "instance of dataset",
+      "privacy": "Registered access",
+      "distributions": [
+        {
+          "formats": [
+            "MINC",
+            "CSV"
+          ],
+          "size": 3.015,
+          "unit": {
+            "value": "GB"
+          },
+          "access": {
+            "landingPage": "https://www.braincode.ca/",
+            "authorizations": [
+              {
+                "value": "Public"
+              }
+            ]
+          }
+        }
+      ],
+      "creators": [
+        {
+          "name": "Ontario Brain Institute",
+          "abbreviation": "OBI",
+          "location": {
+            "name": "Toronto",
+            "postalAddress": "1 Richmond Street West"
+          }
+        },
+        {
+          "name": "Mouse Imaging Centre",
+          "abbreviation": "MICe",
+          "location": {
+            "name": "Toronto",
+            "postalAddress": "25 Orde Street"
+          }
+        }
+      ],
+      "licenses": [
+        {
+          "name": "Refer to Brain-CODE Governance Policy"
+        }
+      ],
+      "acknowledges": [
+        {
+          "name": "",
+          "funders": [
+            {
+              "name": "Ontario Brain Institute",
+              "abbreviation": "OBI",
+              "location": {
+                "name": "Toronto",
+                "postalAddress": "1 Richmond Street West"
+              }
+            },
+            {
+              "name": "Province of Ontario Neurodevelopmental Disorders",
+              "abbreviation": "POND"
+            },
+            {
+              "name": "Government of Ontario"
+            }
+          ]
+        }
+      ],
+      "keywords": [
+        {
+          "value": "Structural MRI"
+        }
+      ],
+      "extraProperties": [
+        {
+          "category": "subjects",
+          "values": [
+            {
+              "value": 20
+            }
+          ]
+        },
+        {
+          "category": "files",
+          "values": [
+            {
+              "value": 104
+            }
+          ]
+        },
+        {
+          "category": "CONP_status",
+          "values": [
+            {
+              "value": "CONP"
+            }
+          ]
+        },
+        {
+          "category": "contact",
+          "values": [
+            {
+              "value": "Jacob Ellegood, Research Associate, jacob.ellegood@sickkids.ca"
+            }
+          ]
+        },
+        {
+          "category": "logo",
+          "values": [
+            {
+              "value": "logo.png"
+            }
+          ]
+        }
+      ],
+      "version": "1.0"
+    },
+    {
+      "title": "High Resolution MRI of Mouse Models Related to Autism - PND17",
+      "description": "Neuroimaging study of Arhgef6 Mouse Model",
+      "dates": [
+        {
+          "date": "2018-02-01",
+          "type": {
+            "value": "Release Date"
+          }
+        },
+        {
+          "date": "2012-02-01",
+          "type": {
+            "value": "Start Date"
+          }
+        },
+        {
+          "date": "2017-02-01",
+          "type": {
+            "value": "End Date"
+          }
+        }
+      ],
+      "storedIn": {
+        "name": "Brain-CODE",
+        "description": "Informatics platform for neuroscience data managed by the Ontario Brain Institute",
+        "publishers": [
+          {
+            "name": "Ontario Brain Institute",
+            "abbreviation": "OBI"
+          }
+        ]
+      },
+      "spatialCoverage": [
+        {
+          "name": "Toronto"
+        }
+      ],
+      "types": [
+        {
+          "information": {
+            "value": "MRI"
+          }
+        },
+        {
+          "information": {
+            "value": "Study Information"
+          }
+        }
+      ],
+      "availability": "available",
+      "refinement": "Data provided includes both the raw data acquired from the scanner as well as the outputs of our registration process",
+      "aggregation": "instance of dataset",
+      "privacy": "Registered access",
+      "distributions": [
+        {
+          "formats": [
+            "MINC",
+            "CSV"
+          ],
+          "size": 14.527,
+          "unit": {
+            "value": "GB"
+          },
+          "access": {
+            "landingPage": "https://www.braincode.ca/",
+            "authorizations": [
+              {
+                "value": "Public"
+              }
+            ]
+          }
+        }
+      ],
+      "creators": [
+        {
+          "name": "Ontario Brain Institute",
+          "abbreviation": "OBI",
+          "location": {
+            "name": "Toronto",
+            "postalAddress": "1 Richmond Street West"
+          }
+        },
+        {
+          "name": "Mouse Imaging Centre",
+          "abbreviation": "MICe",
+          "location": {
+            "name": "Toronto",
+            "postalAddress": "25 Orde Street"
+          }
+        }
+      ],
+      "licenses": [
+        {
+          "name": "Refer to Brain-CODE Governance Policy"
+        }
+      ],
+      "acknowledges": [
+        {
+          "name": "",
+          "funders": [
+            {
+              "name": "Ontario Brain Institute",
+              "abbreviation": "OBI",
+              "location": {
+                "name": "Toronto",
+                "postalAddress": "1 Richmond Street West"
+              }
+            },
+            {
+              "name": "Province of Ontario Neurodevelopmental Disorders",
+              "abbreviation": "POND"
+            },
+            {
+              "name": "Government of Ontario"
+            }
+          ]
+        }
+      ],
+      "keywords": [
+        {
+          "value": "Structural MRI"
+        }
+      ],
+      "extraProperties": [
+        {
+          "category": "subjects",
+          "values": [
+            {
+              "value": 48
+            }
+          ]
+        },
+        {
+          "category": "files",
+          "values": [
+            {
+              "value": 244
+            }
+          ]
+        },
+        {
+          "category": "CONP_status",
+          "values": [
+            {
+              "value": "CONP"
+            }
+          ]
+        },
+        {
+          "category": "contact",
+          "values": [
+            {
+              "value": "Jacob Ellegood, Research Associate, jacob.ellegood@sickkids.ca"
+            }
+          ]
+        },
+        {
+          "category": "logo",
+          "values": [
+            {
+              "value": "logo.png"
+            }
+          ]
+        }
+      ],
+      "version": "1.0"
+    },
+    {
+      "title": "High Resolution MRI of Mouse Models Related to Autism - PND18",
+      "description": "Neuroimaging study of Arid1b Mouse Model",
+      "dates": [
+        {
+          "date": "2018-02-01",
+          "type": {
+            "value": "Release Date"
+          }
+        },
+        {
+          "date": "2012-02-01",
+          "type": {
+            "value": "Start Date"
+          }
+        },
+        {
+          "date": "2017-02-01",
+          "type": {
+            "value": "End Date"
+          }
+        }
+      ],
+      "storedIn": {
+        "name": "Brain-CODE",
+        "description": "Informatics platform for neuroscience data managed by the Ontario Brain Institute",
+        "publishers": [
+          {
+            "name": "Ontario Brain Institute",
+            "abbreviation": "OBI"
+          }
+        ]
+      },
+      "spatialCoverage": [
+        {
+          "name": "Toronto"
+        }
+      ],
+      "types": [
+        {
+          "information": {
+            "value": "MRI"
+          }
+        },
+        {
+          "information": {
+            "value": "Study Information"
+          }
+        }
+      ],
+      "availability": "available",
+      "refinement": "Data provided includes both the raw data acquired from the scanner as well as the outputs of our registration process",
+      "aggregation": "instance of dataset",
+      "privacy": "Registered access",
+      "distributions": [
+        {
+          "formats": [
+            "MINC",
+            "CSV"
+          ],
+          "size": 13.746,
+          "unit": {
+            "value": "GB"
+          },
+          "access": {
+            "landingPage": "https://www.braincode.ca/",
+            "authorizations": [
+              {
+                "value": "Public"
+              }
+            ]
+          }
+        }
+      ],
+      "creators": [
+        {
+          "name": "Ontario Brain Institute",
+          "abbreviation": "OBI",
+          "location": {
+            "name": "Toronto",
+            "postalAddress": "1 Richmond Street West"
+          }
+        },
+        {
+          "name": "Mouse Imaging Centre",
+          "abbreviation": "MICe",
+          "location": {
+            "name": "Toronto",
+            "postalAddress": "25 Orde Street"
+          }
+        }
+      ],
+      "licenses": [
+        {
+          "name": "Refer to Brain-CODE Governance Policy"
+        }
+      ],
+      "acknowledges": [
+        {
+          "name": "",
+          "funders": [
+            {
+              "name": "Ontario Brain Institute",
+              "abbreviation": "OBI",
+              "location": {
+                "name": "Toronto",
+                "postalAddress": "1 Richmond Street West"
+              }
+            },
+            {
+              "name": "Province of Ontario Neurodevelopmental Disorders",
+              "abbreviation": "POND"
+            },
+            {
+              "name": "Government of Ontario"
+            }
+          ]
+        }
+      ],
+      "keywords": [
+        {
+          "value": "Structural MRI"
+        }
+      ],
+      "extraProperties": [
+        {
+          "category": "subjects",
+          "values": [
+            {
+              "value": 46
+            }
+          ]
+        },
+        {
+          "category": "files",
+          "values": [
+            {
+              "value": 234
+            }
+          ]
+        },
+        {
+          "category": "CONP_status",
+          "values": [
+            {
+              "value": "CONP"
+            }
+          ]
+        },
+        {
+          "category": "contact",
+          "values": [
+            {
+              "value": "Jacob Ellegood, Research Associate, jacob.ellegood@sickkids.ca"
+            }
+          ]
+        },
+        {
+          "category": "logo",
+          "values": [
+            {
+              "value": "logo.png"
+            }
+          ]
+        }
+      ],
+      "version": "1.0"
+    },
+    {
+      "title": "High Resolution MRI of Mouse Models Related to Autism - PND20",
+      "description": "Neuroimaging study of BTBR Mouse Model (also includes C57BL/6J and FVB.129P2-Pbde6b)",
+      "dates": [
+        {
+          "date": "2018-02-01",
+          "type": {
+            "value": "Release Date"
+          }
+        },
+        {
+          "date": "2012-02-01",
+          "type": {
+            "value": "Start Date"
+          }
+        },
+        {
+          "date": "2017-02-01",
+          "type": {
+            "value": "End Date"
+          }
+        }
+      ],
+      "storedIn": {
+        "name": "Brain-CODE",
+        "description": "Informatics platform for neuroscience data managed by the Ontario Brain Institute",
+        "publishers": [
+          {
+            "name": "Ontario Brain Institute",
+            "abbreviation": "OBI"
+          }
+        ]
+      },
+      "spatialCoverage": [
+        {
+          "name": "Toronto"
+        }
+      ],
+      "types": [
+        {
+          "information": {
+            "value": "MRI"
+          }
+        },
+        {
+          "information": {
+            "value": "Study Information"
+          }
+        }
+      ],
+      "availability": "available",
+      "refinement": "Data provided includes both the raw data acquired from the scanner as well as the outputs of our registration process",
+      "aggregation": "instance of dataset",
+      "privacy": "Registered access",
+      "distributions": [
+        {
+          "formats": [
+            "MINC",
+            "CSV"
+          ],
+          "size": 5.591,
+          "unit": {
+            "value": "GB"
+          },
+          "access": {
+            "landingPage": "https://www.braincode.ca/",
+            "authorizations": [
+              {
+                "value": "Public"
+              }
+            ]
+          }
+        }
+      ],
+      "creators": [
+        {
+          "name": "Ontario Brain Institute",
+          "abbreviation": "OBI",
+          "location": {
+            "name": "Toronto",
+            "postalAddress": "1 Richmond Street West"
+          }
+        },
+        {
+          "name": "Mouse Imaging Centre",
+          "abbreviation": "MICe",
+          "location": {
+            "name": "Toronto",
+            "postalAddress": "25 Orde Street"
+          }
+        }
+      ],
+      "licenses": [
+        {
+          "name": "Refer to Brain-CODE Governance Policy"
+        }
+      ],
+      "acknowledges": [
+        {
+          "name": "",
+          "funders": [
+            {
+              "name": "Ontario Brain Institute",
+              "abbreviation": "OBI",
+              "location": {
+                "name": "Toronto",
+                "postalAddress": "1 Richmond Street West"
+              }
+            },
+            {
+              "name": "Province of Ontario Neurodevelopmental Disorders",
+              "abbreviation": "POND"
+            },
+            {
+              "name": "Government of Ontario"
+            }
+          ]
+        }
+      ],
+      "keywords": [
+        {
+          "value": "Structural MRI"
+        }
+      ],
+      "extraProperties": [
+        {
+          "category": "subjects",
+          "values": [
+            {
+              "value": 36
+            }
+          ]
+        },
+        {
+          "category": "files",
+          "values": [
+            {
+              "value": 184
+            }
+          ]
+        },
+        {
+          "category": "CONP_status",
+          "values": [
+            {
+              "value": "CONP"
+            }
+          ]
+        },
+        {
+          "category": "contact",
+          "values": [
+            {
+              "value": "Jacob Ellegood, Research Associate, jacob.ellegood@sickkids.ca"
+            }
+          ]
+        },
+        {
+          "category": "logo",
+          "values": [
+            {
+              "value": "logo.png"
+            }
+          ]
+        }
+      ],
+      "version": "1.0"
+    },
+    {
+      "title": "High Resolution MRI of Mouse Models Related to Autism - PND27",
+      "description": "Neuroimaging study of Dpyd Mouse Model",
+      "dates": [
+        {
+          "date": "2018-02-01",
+          "type": {
+            "value": "Release Date"
+          }
+        },
+        {
+          "date": "2012-02-01",
+          "type": {
+            "value": "Start Date"
+          }
+        },
+        {
+          "date": "2017-02-01",
+          "type": {
+            "value": "End Date"
+          }
+        }
+      ],
+      "storedIn": {
+        "name": "Brain-CODE",
+        "description": "Informatics platform for neuroscience data managed by the Ontario Brain Institute",
+        "publishers": [
+          {
+            "name": "Ontario Brain Institute",
+            "abbreviation": "OBI"
+          }
+        ]
+      },
+      "spatialCoverage": [
+        {
+          "name": "Toronto"
+        }
+      ],
+      "types": [
+        {
+          "information": {
+            "value": "MRI"
+          }
+        },
+        {
+          "information": {
+            "value": "Study Information"
+          }
+        }
+      ],
+      "availability": "available",
+      "refinement": "Data provided includes both the raw data acquired from the scanner as well as the outputs of our registration process",
+      "aggregation": "instance of dataset",
+      "privacy": "Registered access",
+      "distributions": [
+        {
+          "formats": [
+            "MINC",
+            "CSV"
+          ],
+          "size": 7.591,
+          "unit": {
+            "value": "GB"
+          },
+          "access": {
+            "landingPage": "https://www.braincode.ca/",
+            "authorizations": [
+              {
+                "value": "Public"
+              }
+            ]
+          }
+        }
+      ],
+      "creators": [
+        {
+          "name": "Ontario Brain Institute",
+          "abbreviation": "OBI",
+          "location": {
+            "name": "Toronto",
+            "postalAddress": "1 Richmond Street West"
+          }
+        },
+        {
+          "name": "Mouse Imaging Centre",
+          "abbreviation": "MICe",
+          "location": {
+            "name": "Toronto",
+            "postalAddress": "25 Orde Street"
+          }
+        }
+      ],
+      "licenses": [
+        {
+          "name": "Refer to Brain-CODE Governance Policy"
+        }
+      ],
+      "acknowledges": [
+        {
+          "name": "",
+          "funders": [
+            {
+              "name": "Ontario Brain Institute",
+              "abbreviation": "OBI",
+              "location": {
+                "name": "Toronto",
+                "postalAddress": "1 Richmond Street West"
+              }
+            },
+            {
+              "name": "Province of Ontario Neurodevelopmental Disorders",
+              "abbreviation": "POND"
+            },
+            {
+              "name": "Government of Ontario"
+            }
+          ]
+        }
+      ],
+      "keywords": [
+        {
+          "value": "Structural MRI"
+        }
+      ],
+      "extraProperties": [
+        {
+          "category": "subjects",
+          "values": [
+            {
+              "value": 45
+            }
+          ]
+        },
+        {
+          "category": "files",
+          "values": [
+            {
+              "value": 229
+            }
+          ]
+        },
+        {
+          "category": "CONP_status",
+          "values": [
+            {
+              "value": "CONP"
+            }
+          ]
+        },
+        {
+          "category": "contact",
+          "values": [
+            {
+              "value": "Jacob Ellegood, Research Associate, jacob.ellegood@sickkids.ca"
+            }
+          ]
+        },
+        {
+          "category": "logo",
+          "values": [
+            {
+              "value": "logo.png"
+            }
+          ]
+        }
+      ],
+      "version": "1.0"
+    },
+    {
+      "title": "High Resolution MRI of Mouse Models Related to Autism - PND28",
+      "description": "Neuroimaging study of Dvl1 Duplication Mouse Model",
+      "dates": [
+        {
+          "date": "2018-02-01",
+          "type": {
+            "value": "Release Date"
+          }
+        },
+        {
+          "date": "2012-02-01",
+          "type": {
+            "value": "Start Date"
+          }
+        },
+        {
+          "date": "2017-02-01",
+          "type": {
+            "value": "End Date"
+          }
+        }
+      ],
+      "storedIn": {
+        "name": "Brain-CODE",
+        "description": "Informatics platform for neuroscience data managed by the Ontario Brain Institute",
+        "publishers": [
+          {
+            "name": "Ontario Brain Institute",
+            "abbreviation": "OBI"
+          }
+        ]
+      },
+      "spatialCoverage": [
+        {
+          "name": "Toronto"
+        }
+      ],
+      "types": [
+        {
+          "information": {
+            "value": "MRI"
+          }
+        },
+        {
+          "information": {
+            "value": "Study Information"
+          }
+        }
+      ],
+      "availability": "available",
+      "refinement": "Data provided includes both the raw data acquired from the scanner as well as the outputs of our registration process",
+      "aggregation": "instance of dataset",
+      "privacy": "Registered access",
+      "distributions": [
+        {
+          "formats": [
+            "MINC",
+            "CSV"
+          ],
+          "size": 14.250,
+          "unit": {
+            "value": "GB"
+          },
+          "access": {
+            "landingPage": "https://www.braincode.ca/",
+            "authorizations": [
+              {
+                "value": "Public"
+              }
+            ]
+          }
+        }
+      ],
+      "creators": [
+        {
+          "name": "Ontario Brain Institute",
+          "abbreviation": "OBI",
+          "location": {
+            "name": "Toronto",
+            "postalAddress": "1 Richmond Street West"
+          }
+        },
+        {
+          "name": "Mouse Imaging Centre",
+          "abbreviation": "MICe",
+          "location": {
+            "name": "Toronto",
+            "postalAddress": "25 Orde Street"
+          }
+        }
+      ],
+      "licenses": [
+        {
+          "name": "Refer to Brain-CODE Governance Policy"
+        }
+      ],
+      "acknowledges": [
+        {
+          "name": "",
+          "funders": [
+            {
+              "name": "Ontario Brain Institute",
+              "abbreviation": "OBI",
+              "location": {
+                "name": "Toronto",
+                "postalAddress": "1 Richmond Street West"
+              }
+            },
+            {
+              "name": "Province of Ontario Neurodevelopmental Disorders",
+              "abbreviation": "POND"
+            },
+            {
+              "name": "Government of Ontario"
+            }
+          ]
+        }
+      ],
+      "keywords": [
+        {
+          "value": "Structural MRI"
+        }
+      ],
+      "extraProperties": [
+        {
+          "category": "subjects",
+          "values": [
+            {
+              "value": 47
+            }
+          ]
+        },
+        {
+          "category": "files",
+          "values": [
+            {
+              "value": 239
+            }
+          ]
+        },
+        {
+          "category": "CONP_status",
+          "values": [
+            {
+              "value": "CONP"
+            }
+          ]
+        },
+        {
+          "category": "contact",
+          "values": [
+            {
+              "value": "Jacob Ellegood, Research Associate, jacob.ellegood@sickkids.ca"
+            }
+          ]
+        },
+        {
+          "category": "logo",
+          "values": [
+            {
+              "value": "logo.png"
+            }
+          ]
+        }
+      ],
+      "version": "1.0"
+    },
+    {
+      "title": "High Resolution MRI of Mouse Models Related to Autism - PND30",
+      "description": "Neuroimaging study of Fmr1 Mouse Model (Fragile X Syndrome)",
+      "dates": [
+        {
+          "date": "2018-02-01",
+          "type": {
+            "value": "Release Date"
+          }
+        },
+        {
+          "date": "2012-02-01",
+          "type": {
+            "value": "Start Date"
+          }
+        },
+        {
+          "date": "2017-02-01",
+          "type": {
+            "value": "End Date"
+          }
+        }
+      ],
+      "storedIn": {
+        "name": "Brain-CODE",
+        "description": "Informatics platform for neuroscience data managed by the Ontario Brain Institute",
+        "publishers": [
+          {
+            "name": "Ontario Brain Institute",
+            "abbreviation": "OBI"
+          }
+        ]
+      },
+      "spatialCoverage": [
+        {
+          "name": "Toronto"
+        }
+      ],
+      "types": [
+        {
+          "information": {
+            "value": "MRI"
+          }
+        },
+        {
+          "information": {
+            "value": "Study Information"
+          }
+        }
+      ],
+      "availability": "available",
+      "refinement": "Data provided includes both the raw data acquired from the scanner as well as the outputs of our registration process",
+      "aggregation": "instance of dataset",
+      "privacy": "Registered access",
+      "distributions": [
+        {
+          "formats": [
+            "MINC",
+            "CSV"
+          ],
+          "size": 6.690,
+          "unit": {
+            "value": "GB"
+          },
+          "access": {
+            "landingPage": "https://www.braincode.ca/",
+            "authorizations": [
+              {
+                "value": "Public"
+              }
+            ]
+          }
+        }
+      ],
+      "creators": [
+        {
+          "name": "Ontario Brain Institute",
+          "abbreviation": "OBI",
+          "location": {
+            "name": "Toronto",
+            "postalAddress": "1 Richmond Street West"
+          }
+        },
+        {
+          "name": "Mouse Imaging Centre",
+          "abbreviation": "MICe",
+          "location": {
+            "name": "Toronto",
+            "postalAddress": "25 Orde Street"
+          }
+        }
+      ],
+      "licenses": [
+        {
+          "name": "Refer to Brain-CODE Governance Policy"
+        }
+      ],
+      "acknowledges": [
+        {
+          "name": "",
+          "funders": [
+            {
+              "name": "Ontario Brain Institute",
+              "abbreviation": "OBI",
+              "location": {
+                "name": "Toronto",
+                "postalAddress": "1 Richmond Street West"
+              }
+            },
+            {
+              "name": "Province of Ontario Neurodevelopmental Disorders",
+              "abbreviation": "POND"
+            },
+            {
+              "name": "Government of Ontario"
+            }
+          ]
+        }
+      ],
+      "keywords": [
+        {
+          "value": "Structural MRI"
+        }
+      ],
+      "extraProperties": [
+        {
+          "category": "subjects",
+          "values": [
+            {
+              "value": 16
+            }
+          ]
+        },
+        {
+          "category": "files",
+          "values": [
+            {
+              "value": 84
+            }
+          ]
+        },
+        {
+          "category": "CONP_status",
+          "values": [
+            {
+              "value": "CONP"
+            }
+          ]
+        },
+        {
+          "category": "contact",
+          "values": [
+            {
+              "value": "Jacob Ellegood, Research Associate, jacob.ellegood@sickkids.ca"
+            }
+          ]
+        },
+        {
+          "category": "logo",
+          "values": [
+            {
+              "value": "logo.png"
+            }
+          ]
+        }
+      ],
+      "version": "1.0"
+    },
+    {
+      "title": "High Resolution MRI of Mouse Models Related to Autism - PND31",
+      "description": "Neuroimaging study of Fmr1-KO Mice on FVB background",
+      "dates": [
+        {
+          "date": "2018-02-01",
+          "type": {
+            "value": "Release Date"
+          }
+        },
+        {
+          "date": "2012-02-01",
+          "type": {
+            "value": "Start Date"
+          }
+        },
+        {
+          "date": "2017-02-01",
+          "type": {
+            "value": "End Date"
+          }
+        }
+      ],
+      "storedIn": {
+        "name": "Brain-CODE",
+        "description": "Informatics platform for neuroscience data managed by the Ontario Brain Institute",
+        "publishers": [
+          {
+            "name": "Ontario Brain Institute",
+            "abbreviation": "OBI"
+          }
+        ]
+      },
+      "spatialCoverage": [
+        {
+          "name": "Toronto"
+        }
+      ],
+      "types": [
+        {
+          "information": {
+            "value": "MRI"
+          }
+        },
+        {
+          "information": {
+            "value": "Study Information"
+          }
+        }
+      ],
+      "availability": "available",
+      "refinement": "Data provided includes both the raw data acquired from the scanner as well as the outputs of our registration process",
+      "aggregation": "instance of dataset",
+      "privacy": "Registered access",
+      "distributions": [
+        {
+          "formats": [
+            "MINC",
+            "CSV"
+          ],
+          "size": 3.090,
+          "unit": {
+            "value": "GB"
+          },
+          "access": {
+            "landingPage": "https://www.braincode.ca/",
+            "authorizations": [
+              {
+                "value": "Public"
+              }
+            ]
+          }
+        }
+      ],
+      "creators": [
+        {
+          "name": "Ontario Brain Institute",
+          "abbreviation": "OBI",
+          "location": {
+            "name": "Toronto",
+            "postalAddress": "1 Richmond Street West"
+          }
+        },
+        {
+          "name": "Mouse Imaging Centre",
+          "abbreviation": "MICe",
+          "location": {
+            "name": "Toronto",
+            "postalAddress": "25 Orde Street"
+          }
+        }
+      ],
+      "licenses": [
+        {
+          "name": "Refer to Brain-CODE Governance Policy"
+        }
+      ],
+      "acknowledges": [
+        {
+          "name": "",
+          "funders": [
+            {
+              "name": "Ontario Brain Institute",
+              "abbreviation": "OBI",
+              "location": {
+                "name": "Toronto",
+                "postalAddress": "1 Richmond Street West"
+              }
+            },
+            {
+              "name": "Province of Ontario Neurodevelopmental Disorders",
+              "abbreviation": "POND"
+            },
+            {
+              "name": "Government of Ontario"
+            }
+          ]
+        }
+      ],
+      "keywords": [
+        {
+          "value": "Structural MRI"
+        }
+      ],
+      "extraProperties": [
+        {
+          "category": "subjects",
+          "values": [
+            {
+              "value": 20
+            }
+          ]
+        },
+        {
+          "category": "files",
+          "values": [
+            {
+              "value": 104
+            }
+          ]
+        },
+        {
+          "category": "CONP_status",
+          "values": [
+            {
+              "value": "CONP"
+            }
+          ]
+        },
+        {
+          "category": "contact",
+          "values": [
+            {
+              "value": "Jacob Ellegood, Research Associate, jacob.ellegood@sickkids.ca"
+            }
+          ]
+        },
+        {
+          "category": "logo",
+          "values": [
+            {
+              "value": "logo.png"
+            }
+          ]
+        }
+      ],
+      "version": "1.0"
+    },
+    {
+      "title": "High Resolution MRI of Mouse Models Related to Autism - PND34",
+      "description": "Neuroimaging study of Hgsnat Mouse Model",
+      "dates": [
+        {
+          "date": "2018-02-01",
+          "type": {
+            "value": "Release Date"
+          }
+        },
+        {
+          "date": "2012-02-01",
+          "type": {
+            "value": "Start Date"
+          }
+        },
+        {
+          "date": "2017-02-01",
+          "type": {
+            "value": "End Date"
+          }
+        }
+      ],
+      "storedIn": {
+        "name": "Brain-CODE",
+        "description": "Informatics platform for neuroscience data managed by the Ontario Brain Institute",
+        "publishers": [
+          {
+            "name": "Ontario Brain Institute",
+            "abbreviation": "OBI"
+          }
+        ]
+      },
+      "spatialCoverage": [
+        {
+          "name": "Toronto"
+        }
+      ],
+      "types": [
+        {
+          "information": {
+            "value": "MRI"
+          }
+        },
+        {
+          "information": {
+            "value": "Study Information"
+          }
+        }
+      ],
+      "availability": "available",
+      "refinement": "Data provided includes both the raw data acquired from the scanner as well as the outputs of our registration process",
+      "aggregation": "instance of dataset",
+      "privacy": "Registered access",
+      "distributions": [
+        {
+          "formats": [
+            "MINC",
+            "CSV"
+          ],
+          "size": 14.744,
+          "unit": {
+            "value": "GB"
+          },
+          "access": {
+            "landingPage": "https://www.braincode.ca/",
+            "authorizations": [
+              {
+                "value": "Public"
+              }
+            ]
+          }
+        }
+      ],
+      "creators": [
+        {
+          "name": "Ontario Brain Institute",
+          "abbreviation": "OBI",
+          "location": {
+            "name": "Toronto",
+            "postalAddress": "1 Richmond Street West"
+          }
+        },
+        {
+          "name": "Mouse Imaging Centre",
+          "abbreviation": "MICe",
+          "location": {
+            "name": "Toronto",
+            "postalAddress": "25 Orde Street"
+          }
+        }
+      ],
+      "licenses": [
+        {
+          "name": "Refer to Brain-CODE Governance Policy"
+        }
+      ],
+      "acknowledges": [
+        {
+          "name": "",
+          "funders": [
+            {
+              "name": "Ontario Brain Institute",
+              "abbreviation": "OBI",
+              "location": {
+                "name": "Toronto",
+                "postalAddress": "1 Richmond Street West"
+              }
+            },
+            {
+              "name": "Province of Ontario Neurodevelopmental Disorders",
+              "abbreviation": "POND"
+            },
+            {
+              "name": "Government of Ontario"
+            }
+          ]
+        }
+      ],
+      "keywords": [
+        {
+          "value": "Structural MRI"
+        }
+      ],
+      "extraProperties": [
+        {
+          "category": "subjects",
+          "values": [
+            {
+              "value": 49
+            }
+          ]
+        },
+        {
+          "category": "files",
+          "values": [
+            {
+              "value": 249
+            }
+          ]
+        },
+        {
+          "category": "CONP_status",
+          "values": [
+            {
+              "value": "CONP"
+            }
+          ]
+        },
+        {
+          "category": "contact",
+          "values": [
+            {
+              "value": "Jacob Ellegood, Research Associate, jacob.ellegood@sickkids.ca"
+            }
+          ]
+        },
+        {
+          "category": "logo",
+          "values": [
+            {
+              "value": "logo.png"
+            }
+          ]
+        }
+      ],
+      "version": "1.0"
+    },
+    {
+      "title": "High Resolution MRI of Mouse Models Related to Autism - PND35",
+      "description": "Neuroimaging study of integrinB3 (ITGB3) Mouse Model",
+      "dates": [
+        {
+          "date": "2018-02-01",
+          "type": {
+            "value": "Release Date"
+          }
+        },
+        {
+          "date": "2012-02-01",
+          "type": {
+            "value": "Start Date"
+          }
+        },
+        {
+          "date": "2017-02-01",
+          "type": {
+            "value": "End Date"
+          }
+        }
+      ],
+      "storedIn": {
+        "name": "Brain-CODE",
+        "description": "Informatics platform for neuroscience data managed by the Ontario Brain Institute",
+        "publishers": [
+          {
+            "name": "Ontario Brain Institute",
+            "abbreviation": "OBI"
+          }
+        ]
+      },
+      "spatialCoverage": [
+        {
+          "name": "Toronto"
+        }
+      ],
+      "types": [
+        {
+          "information": {
+            "value": "MRI"
+          }
+        },
+        {
+          "information": {
+            "value": "Study Information"
+          }
+        }
+      ],
+      "availability": "available",
+      "refinement": "Data provided includes both the raw data acquired from the scanner as well as the outputs of our registration process",
+      "aggregation": "instance of dataset",
+      "privacy": "Registered access",
+      "distributions": [
+        {
+          "formats": [
+            "MINC",
+            "CSV"
+          ],
+          "size": 3.463,
+          "unit": {
+            "value": "GB"
+          },
+          "access": {
+            "landingPage": "https://www.braincode.ca/",
+            "authorizations": [
+              {
+                "value": "Public"
+              }
+            ]
+          }
+        }
+      ],
+      "creators": [
+        {
+          "name": "Ontario Brain Institute",
+          "abbreviation": "OBI",
+          "location": {
+            "name": "Toronto",
+            "postalAddress": "1 Richmond Street West"
+          }
+        },
+        {
+          "name": "Mouse Imaging Centre",
+          "abbreviation": "MICe",
+          "location": {
+            "name": "Toronto",
+            "postalAddress": "25 Orde Street"
+          }
+        }
+      ],
+      "licenses": [
+        {
+          "name": "Refer to Brain-CODE Governance Policy"
+        }
+      ],
+      "acknowledges": [
+        {
+          "name": "",
+          "funders": [
+            {
+              "name": "Ontario Brain Institute",
+              "abbreviation": "OBI",
+              "location": {
+                "name": "Toronto",
+                "postalAddress": "1 Richmond Street West"
+              }
+            },
+            {
+              "name": "Province of Ontario Neurodevelopmental Disorders",
+              "abbreviation": "POND"
+            },
+            {
+              "name": "Government of Ontario"
+            }
+          ]
+        }
+      ],
+      "keywords": [
+        {
+          "value": "Structural MRI"
+        }
+      ],
+      "extraProperties": [
+        {
+          "category": "subjects",
+          "values": [
+            {
+              "value": 22
+            }
+          ]
+        },
+        {
+          "category": "files",
+          "values": [
+            {
+              "value": 114
+            }
+          ]
+        },
+        {
+          "category": "CONP_status",
+          "values": [
+            {
+              "value": "CONP"
+            }
+          ]
+        },
+        {
+          "category": "contact",
+          "values": [
+            {
+              "value": "Jacob Ellegood, Research Associate, jacob.ellegood@sickkids.ca"
+            }
+          ]
+        },
+        {
+          "category": "logo",
+          "values": [
+            {
+              "value": "logo.png"
+            }
+          ]
+        }
+      ],
+      "version": "1.0"
+    },
+    {
+      "title": "High Resolution MRI of Mouse Models Related to Autism - PND36",
+      "description": "Neuroimaging study of Magel2 Deletion Mouse Model",
+      "dates": [
+        {
+          "date": "2018-02-01",
+          "type": {
+            "value": "Release Date"
+          }
+        },
+        {
+          "date": "2012-02-01",
+          "type": {
+            "value": "Start Date"
+          }
+        },
+        {
+          "date": "2017-02-01",
+          "type": {
+            "value": "End Date"
+          }
+        }
+      ],
+      "storedIn": {
+        "name": "Brain-CODE",
+        "description": "Informatics platform for neuroscience data managed by the Ontario Brain Institute",
+        "publishers": [
+          {
+            "name": "Ontario Brain Institute",
+            "abbreviation": "OBI"
+          }
+        ]
+      },
+      "spatialCoverage": [
+        {
+          "name": "Toronto"
+        }
+      ],
+      "types": [
+        {
+          "information": {
+            "value": "MRI"
+          }
+        },
+        {
+          "information": {
+            "value": "Study Information"
+          }
+        }
+      ],
+      "availability": "available",
+      "refinement": "Data provided includes both the raw data acquired from the scanner as well as the outputs of our registration process",
+      "aggregation": "instance of dataset",
+      "privacy": "Registered access",
+      "distributions": [
+        {
+          "formats": [
+            "MINC",
+            "CSV"
+          ],
+          "size": 4.333,
+          "unit": {
+            "value": "GB"
+          },
+          "access": {
+            "landingPage": "https://www.braincode.ca/",
+            "authorizations": [
+              {
+                "value": "Public"
+              }
+            ]
+          }
+        }
+      ],
+      "creators": [
+        {
+          "name": "Ontario Brain Institute",
+          "abbreviation": "OBI",
+          "location": {
+            "name": "Toronto",
+            "postalAddress": "1 Richmond Street West"
+          }
+        },
+        {
+          "name": "Mouse Imaging Centre",
+          "abbreviation": "MICe",
+          "location": {
+            "name": "Toronto",
+            "postalAddress": "25 Orde Street"
+          }
+        }
+      ],
+      "licenses": [
+        {
+          "name": "Refer to Brain-CODE Governance Policy"
+        }
+      ],
+      "acknowledges": [
+        {
+          "name": "",
+          "funders": [
+            {
+              "name": "Ontario Brain Institute",
+              "abbreviation": "OBI",
+              "location": {
+                "name": "Toronto",
+                "postalAddress": "1 Richmond Street West"
+              }
+            },
+            {
+              "name": "Province of Ontario Neurodevelopmental Disorders",
+              "abbreviation": "POND"
+            },
+            {
+              "name": "Government of Ontario"
+            }
+          ]
+        }
+      ],
+      "keywords": [
+        {
+          "value": "Structural MRI"
+        }
+      ],
+      "extraProperties": [
+        {
+          "category": "subjects",
+          "values": [
+            {
+              "value": 12
+            }
+          ]
+        },
+        {
+          "category": "files",
+          "values": [
+            {
+              "value": 64
+            }
+          ]
+        },
+        {
+          "category": "CONP_status",
+          "values": [
+            {
+              "value": "CONP"
+            }
+          ]
+        },
+        {
+          "category": "contact",
+          "values": [
+            {
+              "value": "Jacob Ellegood, Research Associate, jacob.ellegood@sickkids.ca"
+            }
+          ]
+        },
+        {
+          "category": "logo",
+          "values": [
+            {
+              "value": "logo.png"
+            }
+          ]
+        }
+      ],
+      "version": "1.0"
+    },
+    {
+      "title": "High Resolution MRI of Mouse Models Related to Autism - PND38",
+      "description": "Neuroimaging study of Disrupted Mecp2_p60 Mouse Model (Rett Syndrome)",
+      "dates": [
+        {
+          "date": "2018-02-01",
+          "type": {
+            "value": "Release Date"
+          }
+        },
+        {
+          "date": "2012-02-01",
+          "type": {
+            "value": "Start Date"
+          }
+        },
+        {
+          "date": "2017-02-01",
+          "type": {
+            "value": "End Date"
+          }
+        }
+      ],
+      "storedIn": {
+        "name": "Brain-CODE",
+        "description": "Informatics platform for neuroscience data managed by the Ontario Brain Institute",
+        "publishers": [
+          {
+            "name": "Ontario Brain Institute",
+            "abbreviation": "OBI"
+          }
+        ]
+      },
+      "spatialCoverage": [
+        {
+          "name": "Toronto"
+        }
+      ],
+      "types": [
+        {
+          "information": {
+            "value": "MRI"
+          }
+        },
+        {
+          "information": {
+            "value": "Study Information"
+          }
+        }
+      ],
+      "availability": "available",
+      "refinement": "Data provided includes both the raw data acquired from the scanner as well as the outputs of our registration process",
+      "aggregation": "instance of dataset",
+      "privacy": "Registered access",
+      "distributions": [
+        {
+          "formats": [
+            "MINC",
+            "CSV"
+          ],
+          "size": 2.936,
+          "unit": {
+            "value": "GB"
+          },
+          "access": {
+            "landingPage": "https://www.braincode.ca/",
+            "authorizations": [
+              {
+                "value": "Public"
+              }
+            ]
+          }
+        }
+      ],
+      "creators": [
+        {
+          "name": "Ontario Brain Institute",
+          "abbreviation": "OBI",
+          "location": {
+            "name": "Toronto",
+            "postalAddress": "1 Richmond Street West"
+          }
+        },
+        {
+          "name": "Mouse Imaging Centre",
+          "abbreviation": "MICe",
+          "location": {
+            "name": "Toronto",
+            "postalAddress": "25 Orde Street"
+          }
+        }
+      ],
+      "licenses": [
+        {
+          "name": "Refer to Brain-CODE Governance Policy"
+        }
+      ],
+      "acknowledges": [
+        {
+          "name": "",
+          "funders": [
+            {
+              "name": "Ontario Brain Institute",
+              "abbreviation": "OBI",
+              "location": {
+                "name": "Toronto",
+                "postalAddress": "1 Richmond Street West"
+              }
+            },
+            {
+              "name": "Province of Ontario Neurodevelopmental Disorders",
+              "abbreviation": "POND"
+            },
+            {
+              "name": "Government of Ontario"
+            }
+          ]
+        }
+      ],
+      "keywords": [
+        {
+          "value": "Structural MRI"
+        }
+      ],
+      "extraProperties": [
+        {
+          "category": "subjects",
+          "values": [
+            {
+              "value": 19
+            }
+          ]
+        },
+        {
+          "category": "files",
+          "values": [
+            {
+              "value": 99
+            }
+          ]
+        },
+        {
+          "category": "CONP_status",
+          "values": [
+            {
+              "value": "CONP"
+            }
+          ]
+        },
+        {
+          "category": "contact",
+          "values": [
+            {
+              "value": "Jacob Ellegood, Research Associate, jacob.ellegood@sickkids.ca"
+            }
+          ]
+        },
+        {
+          "category": "logo",
+          "values": [
+            {
+              "value": "logo.png"
+            }
+          ]
+        }
+      ],
+      "version": "1.0"
+    },
+    {
+      "title": "High Resolution MRI of Mouse Models Related to Autism - PND40",
+      "description": "Neuroimaging study of Nf1 Mouse Model",
+      "dates": [
+        {
+          "date": "2018-02-01",
+          "type": {
+            "value": "Release Date"
+          }
+        },
+        {
+          "date": "2012-02-01",
+          "type": {
+            "value": "Start Date"
+          }
+        },
+        {
+          "date": "2017-02-01",
+          "type": {
+            "value": "End Date"
+          }
+        }
+      ],
+      "storedIn": {
+        "name": "Brain-CODE",
+        "description": "Informatics platform for neuroscience data managed by the Ontario Brain Institute",
+        "publishers": [
+          {
+            "name": "Ontario Brain Institute",
+            "abbreviation": "OBI"
+          }
+        ]
+      },
+      "spatialCoverage": [
+        {
+          "name": "Toronto"
+        }
+      ],
+      "types": [
+        {
+          "information": {
+            "value": "MRI"
+          }
+        },
+        {
+          "information": {
+            "value": "Study Information"
+          }
+        }
+      ],
+      "availability": "available",
+      "refinement": "Data provided includes both the raw data acquired from the scanner as well as the outputs of our registration process",
+      "aggregation": "instance of dataset",
+      "privacy": "Registered access",
+      "distributions": [
+        {
+          "formats": [
+            "MINC",
+            "CSV"
+          ],
+          "size": 9.896,
+          "unit": {
+            "value": "GB"
+          },
+          "access": {
+            "landingPage": "https://www.braincode.ca/",
+            "authorizations": [
+              {
+                "value": "Public"
+              }
+            ]
+          }
+        }
+      ],
+      "creators": [
+        {
+          "name": "Ontario Brain Institute",
+          "abbreviation": "OBI",
+          "location": {
+            "name": "Toronto",
+            "postalAddress": "1 Richmond Street West"
+          }
+        },
+        {
+          "name": "Mouse Imaging Centre",
+          "abbreviation": "MICe",
+          "location": {
+            "name": "Toronto",
+            "postalAddress": "25 Orde Street"
+          }
+        }
+      ],
+      "licenses": [
+        {
+          "name": "Refer to Brain-CODE Governance Policy"
+        }
+      ],
+      "acknowledges": [
+        {
+          "name": "",
+          "funders": [
+            {
+              "name": "Ontario Brain Institute",
+              "abbreviation": "OBI",
+              "location": {
+                "name": "Toronto",
+                "postalAddress": "1 Richmond Street West"
+              }
+            },
+            {
+              "name": "Province of Ontario Neurodevelopmental Disorders",
+              "abbreviation": "POND"
+            },
+            {
+              "name": "Government of Ontario"
+            }
+          ]
+        }
+      ],
+      "keywords": [
+        {
+          "value": "Structural MRI"
+        }
+      ],
+      "extraProperties": [
+        {
+          "category": "subjects",
+          "values": [
+            {
+              "value": 19
+            }
+          ]
+        },
+        {
+          "category": "files",
+          "values": [
+            {
+              "value": 99
+            }
+          ]
+        },
+        {
+          "category": "CONP_status",
+          "values": [
+            {
+              "value": "CONP"
+            }
+          ]
+        },
+        {
+          "category": "contact",
+          "values": [
+            {
+              "value": "Jacob Ellegood, Research Associate, jacob.ellegood@sickkids.ca"
+            }
+          ]
+        },
+        {
+          "category": "logo",
+          "values": [
+            {
+              "value": "logo.png"
+            }
+          ]
+        }
+      ],
+      "version": "1.0"
+    },
+    {
+      "title": "High Resolution MRI of Mouse Models Related to Autism - PND41",
+      "description": "Neuroimaging study of Nhs Mouse Model",
+      "dates": [
+        {
+          "date": "2018-02-01",
+          "type": {
+            "value": "Release Date"
+          }
+        },
+        {
+          "date": "2012-02-01",
+          "type": {
+            "value": "Start Date"
+          }
+        },
+        {
+          "date": "2017-02-01",
+          "type": {
+            "value": "End Date"
+          }
+        }
+      ],
+      "storedIn": {
+        "name": "Brain-CODE",
+        "description": "Informatics platform for neuroscience data managed by the Ontario Brain Institute",
+        "publishers": [
+          {
+            "name": "Ontario Brain Institute",
+            "abbreviation": "OBI"
+          }
+        ]
+      },
+      "spatialCoverage": [
+        {
+          "name": "Toronto"
+        }
+      ],
+      "types": [
+        {
+          "information": {
+            "value": "MRI"
+          }
+        },
+        {
+          "information": {
+            "value": "Study Information"
+          }
+        }
+      ],
+      "availability": "available",
+      "refinement": "Data provided includes both the raw data acquired from the scanner as well as the outputs of our registration process",
+      "aggregation": "instance of dataset",
+      "privacy": "Registered access",
+      "distributions": [
+        {
+          "formats": [
+            "MINC",
+            "CSV"
+          ],
+          "size": 14.313,
+          "unit": {
+            "value": "GB"
+          },
+          "access": {
+            "landingPage": "https://www.braincode.ca/",
+            "authorizations": [
+              {
+                "value": "Public"
+              }
+            ]
+          }
+        }
+      ],
+      "creators": [
+        {
+          "name": "Ontario Brain Institute",
+          "abbreviation": "OBI",
+          "location": {
+            "name": "Toronto",
+            "postalAddress": "1 Richmond Street West"
+          }
+        },
+        {
+          "name": "Mouse Imaging Centre",
+          "abbreviation": "MICe",
+          "location": {
+            "name": "Toronto",
+            "postalAddress": "25 Orde Street"
+          }
+        }
+      ],
+      "licenses": [
+        {
+          "name": "Refer to Brain-CODE Governance Policy"
+        }
+      ],
+      "acknowledges": [
+        {
+          "name": "",
+          "funders": [
+            {
+              "name": "Ontario Brain Institute",
+              "abbreviation": "OBI",
+              "location": {
+                "name": "Toronto",
+                "postalAddress": "1 Richmond Street West"
+              }
+            },
+            {
+              "name": "Province of Ontario Neurodevelopmental Disorders",
+              "abbreviation": "POND"
+            },
+            {
+              "name": "Government of Ontario"
+            }
+          ]
+        }
+      ],
+      "keywords": [
+        {
+          "value": "Structural MRI"
+        }
+      ],
+      "extraProperties": [
+        {
+          "category": "subjects",
+          "values": [
+            {
+              "value": 48
+            }
+          ]
+        },
+        {
+          "category": "files",
+          "values": [
+            {
+              "value": 244
+            }
+          ]
+        },
+        {
+          "category": "CONP_status",
+          "values": [
+            {
+              "value": "CONP"
+            }
+          ]
+        },
+        {
+          "category": "contact",
+          "values": [
+            {
+              "value": "Jacob Ellegood, Research Associate, jacob.ellegood@sickkids.ca"
+            }
+          ]
+        },
+        {
+          "category": "logo",
+          "values": [
+            {
+              "value": "logo.png"
+            }
+          ]
+        }
+      ],
+      "version": "1.0"
+    },
+    {
+      "title": "High Resolution MRI of Mouse Models Related to Autism - PND43",
+      "description": "Neuroimaging study of Neuroligin3 R451C KI Mouse Model",
+      "dates": [
+        {
+          "date": "2018-02-01",
+          "type": {
+            "value": "Release Date"
+          }
+        },
+        {
+          "date": "2012-02-01",
+          "type": {
+            "value": "Start Date"
+          }
+        },
+        {
+          "date": "2017-02-01",
+          "type": {
+            "value": "End Date"
+          }
+        }
+      ],
+      "storedIn": {
+        "name": "Brain-CODE",
+        "description": "Informatics platform for neuroscience data managed by the Ontario Brain Institute",
+        "publishers": [
+          {
+            "name": "Ontario Brain Institute",
+            "abbreviation": "OBI"
+          }
+        ]
+      },
+      "spatialCoverage": [
+        {
+          "name": "Toronto"
+        }
+      ],
+      "types": [
+        {
+          "information": {
+            "value": "MRI"
+          }
+        },
+        {
+          "information": {
+            "value": "Study Information"
+          }
+        }
+      ],
+      "availability": "available",
+      "refinement": "Data provided includes both the raw data acquired from the scanner as well as the outputs of our registration process",
+      "aggregation": "instance of dataset",
+      "privacy": "Registered access",
+      "distributions": [
+        {
+          "formats": [
+            "MINC",
+            "CSV"
+          ],
+          "size": 8.363,
+          "unit": {
+            "value": "GB"
+          },
+          "access": {
+            "landingPage": "https://www.braincode.ca/",
+            "authorizations": [
+              {
+                "value": "Public"
+              }
+            ]
+          }
+        }
+      ],
+      "creators": [
+        {
+          "name": "Ontario Brain Institute",
+          "abbreviation": "OBI",
+          "location": {
+            "name": "Toronto",
+            "postalAddress": "1 Richmond Street West"
+          }
+        },
+        {
+          "name": "Mouse Imaging Centre",
+          "abbreviation": "MICe",
+          "location": {
+            "name": "Toronto",
+            "postalAddress": "25 Orde Street"
+          }
+        }
+      ],
+      "licenses": [
+        {
+          "name": "Refer to Brain-CODE Governance Policy"
+        }
+      ],
+      "acknowledges": [
+        {
+          "name": "",
+          "funders": [
+            {
+              "name": "Ontario Brain Institute",
+              "abbreviation": "OBI",
+              "location": {
+                "name": "Toronto",
+                "postalAddress": "1 Richmond Street West"
+              }
+            },
+            {
+              "name": "Province of Ontario Neurodevelopmental Disorders",
+              "abbreviation": "POND"
+            },
+            {
+              "name": "Government of Ontario"
+            }
+          ]
+        }
+      ],
+      "keywords": [
+        {
+          "value": "Structural MRI"
+        }
+      ],
+      "extraProperties": [
+        {
+          "category": "subjects",
+          "values": [
+            {
+              "value": 16
+            }
+          ]
+        },
+        {
+          "category": "files",
+          "values": [
+            {
+              "value": 84
+            }
+          ]
+        },
+        {
+          "category": "CONP_status",
+          "values": [
+            {
+              "value": "CONP"
+            }
+          ]
+        },
+        {
+          "category": "contact",
+          "values": [
+            {
+              "value": "Jacob Ellegood, Research Associate, jacob.ellegood@sickkids.ca"
+            }
+          ]
+        },
+        {
+          "category": "logo",
+          "values": [
+            {
+              "value": "logo.png"
+            }
+          ]
+        }
+      ],
+      "version": "1.0"
+    },
+    {
+      "title": "High Resolution MRI of Mouse Models Related to Autism - PND46",
+      "description": "Neuroimaging study of Raly Mouse Model",
+      "dates": [
+        {
+          "date": "2018-02-01",
+          "type": {
+            "value": "Release Date"
+          }
+        },
+        {
+          "date": "2012-02-01",
+          "type": {
+            "value": "Start Date"
+          }
+        },
+        {
+          "date": "2017-02-01",
+          "type": {
+            "value": "End Date"
+          }
+        }
+      ],
+      "storedIn": {
+        "name": "Brain-CODE",
+        "description": "Informatics platform for neuroscience data managed by the Ontario Brain Institute",
+        "publishers": [
+          {
+            "name": "Ontario Brain Institute",
+            "abbreviation": "OBI"
+          }
+        ]
+      },
+      "spatialCoverage": [
+        {
+          "name": "Toronto"
+        }
+      ],
+      "types": [
+        {
+          "information": {
+            "value": "MRI"
+          }
+        },
+        {
+          "information": {
+            "value": "Study Information"
+          }
+        }
+      ],
+      "availability": "available",
+      "refinement": "Data provided includes both the raw data acquired from the scanner as well as the outputs of our registration process",
+      "aggregation": "instance of dataset",
+      "privacy": "Registered access",
+      "distributions": [
+        {
+          "formats": [
+            "MINC",
+            "CSV"
+          ],
+          "size": 13.443,
+          "unit": {
+            "value": "GB"
+          },
+          "access": {
+            "landingPage": "https://www.braincode.ca/",
+            "authorizations": [
+              {
+                "value": "Public"
+              }
+            ]
+          }
+        }
+      ],
+      "creators": [
+        {
+          "name": "Ontario Brain Institute",
+          "abbreviation": "OBI",
+          "location": {
+            "name": "Toronto",
+            "postalAddress": "1 Richmond Street West"
+          }
+        },
+        {
+          "name": "Mouse Imaging Centre",
+          "abbreviation": "MICe",
+          "location": {
+            "name": "Toronto",
+            "postalAddress": "25 Orde Street"
+          }
+        }
+      ],
+      "licenses": [
+        {
+          "name": "Refer to Brain-CODE Governance Policy"
+        }
+      ],
+      "acknowledges": [
+        {
+          "name": "",
+          "funders": [
+            {
+              "name": "Ontario Brain Institute",
+              "abbreviation": "OBI",
+              "location": {
+                "name": "Toronto",
+                "postalAddress": "1 Richmond Street West"
+              }
+            },
+            {
+              "name": "Province of Ontario Neurodevelopmental Disorders",
+              "abbreviation": "POND"
+            },
+            {
+              "name": "Government of Ontario"
+            }
+          ]
+        }
+      ],
+      "keywords": [
+        {
+          "value": "Structural MRI"
+        }
+      ],
+      "extraProperties": [
+        {
+          "category": "subjects",
+          "values": [
+            {
+              "value": 45
+            }
+          ]
+        },
+        {
+          "category": "files",
+          "values": [
+            {
+              "value": 229
+            }
+          ]
+        },
+        {
+          "category": "CONP_status",
+          "values": [
+            {
+              "value": "CONP"
+            }
+          ]
+        },
+        {
+          "category": "contact",
+          "values": [
+            {
+              "value": "Jacob Ellegood, Research Associate, jacob.ellegood@sickkids.ca"
+            }
+          ]
+        },
+        {
+          "category": "logo",
+          "values": [
+            {
+              "value": "logo.png"
+            }
+          ]
+        }
+      ],
+      "version": "1.0"
+    },
+    {
+      "title": "High Resolution MRI of Mouse Models Related to Autism - PND47",
+      "description": "Neuroimaging study of Slc6a4 KI Mouse Model",
+      "dates": [
+        {
+          "date": "2018-02-01",
+          "type": {
+            "value": "Release Date"
+          }
+        },
+        {
+          "date": "2012-02-01",
+          "type": {
+            "value": "Start Date"
+          }
+        },
+        {
+          "date": "2017-02-01",
+          "type": {
+            "value": "End Date"
+          }
+        }
+      ],
+      "storedIn": {
+        "name": "Brain-CODE",
+        "description": "Informatics platform for neuroscience data managed by the Ontario Brain Institute",
+        "publishers": [
+          {
+            "name": "Ontario Brain Institute",
+            "abbreviation": "OBI"
+          }
+        ]
+      },
+      "spatialCoverage": [
+        {
+          "name": "Toronto"
+        }
+      ],
+      "types": [
+        {
+          "information": {
+            "value": "MRI"
+          }
+        },
+        {
+          "information": {
+            "value": "Study Information"
+          }
+        }
+      ],
+      "availability": "available",
+      "refinement": "Data provided includes both the raw data acquired from the scanner as well as the outputs of our registration process",
+      "aggregation": "instance of dataset",
+      "privacy": "Registered access",
+      "distributions": [
+        {
+          "formats": [
+            "MINC",
+            "CSV"
+          ],
+          "size": 6.215,
+          "unit": {
+            "value": "GB"
+          },
+          "access": {
+            "landingPage": "https://www.braincode.ca/",
+            "authorizations": [
+              {
+                "value": "Public"
+              }
+            ]
+          }
+        }
+      ],
+      "creators": [
+        {
+          "name": "Ontario Brain Institute",
+          "abbreviation": "OBI",
+          "location": {
+            "name": "Toronto",
+            "postalAddress": "1 Richmond Street West"
+          }
+        },
+        {
+          "name": "Mouse Imaging Centre",
+          "abbreviation": "MICe",
+          "location": {
+            "name": "Toronto",
+            "postalAddress": "25 Orde Street"
+          }
+        }
+      ],
+      "licenses": [
+        {
+          "name": "Refer to Brain-CODE Governance Policy"
+        }
+      ],
+      "acknowledges": [
+        {
+          "name": "",
+          "funders": [
+            {
+              "name": "Ontario Brain Institute",
+              "abbreviation": "OBI",
+              "location": {
+                "name": "Toronto",
+                "postalAddress": "1 Richmond Street West"
+              }
+            },
+            {
+              "name": "Province of Ontario Neurodevelopmental Disorders",
+              "abbreviation": "POND"
+            },
+            {
+              "name": "Government of Ontario"
+            }
+          ]
+        }
+      ],
+      "keywords": [
+        {
+          "value": "Structural MRI"
+        }
+      ],
+      "extraProperties": [
+        {
+          "category": "subjects",
+          "values": [
+            {
+              "value": 40
+            }
+          ]
+        },
+        {
+          "category": "files",
+          "values": [
+            {
+              "value": 204
+            }
+          ]
+        },
+        {
+          "category": "CONP_status",
+          "values": [
+            {
+              "value": "CONP"
+            }
+          ]
+        },
+        {
+          "category": "contact",
+          "values": [
+            {
+              "value": "Jacob Ellegood, Research Associate, jacob.ellegood@sickkids.ca"
+            }
+          ]
+        },
+        {
+          "category": "logo",
+          "values": [
+            {
+              "value": "logo.png"
+            }
+          ]
+        }
+      ],
+      "version": "1.0"
+    },
+    {
+      "title": "High Resolution MRI of Mouse Models Related to Autism - PND48",
+      "description": "Neuroimaging study of Slc6a4 KI Mouse Model (Control Strain 129)",
+      "dates": [
+        {
+          "date": "2018-02-01",
+          "type": {
+            "value": "Release Date"
+          }
+        },
+        {
+          "date": "2012-02-01",
+          "type": {
+            "value": "Start Date"
+          }
+        },
+        {
+          "date": "2017-02-01",
+          "type": {
+            "value": "End Date"
+          }
+        }
+      ],
+      "storedIn": {
+        "name": "Brain-CODE",
+        "description": "Informatics platform for neuroscience data managed by the Ontario Brain Institute",
+        "publishers": [
+          {
+            "name": "Ontario Brain Institute",
+            "abbreviation": "OBI"
+          }
+        ]
+      },
+      "spatialCoverage": [
+        {
+          "name": "Toronto"
+        }
+      ],
+      "types": [
+        {
+          "information": {
+            "value": "MRI"
+          }
+        },
+        {
+          "information": {
+            "value": "Study Information"
+          }
+        }
+      ],
+      "availability": "available",
+      "refinement": "Data provided includes both the raw data acquired from the scanner as well as the outputs of our registration process",
+      "aggregation": "instance of dataset",
+      "privacy": "Registered access",
+      "distributions": [
+        {
+          "formats": [
+            "MINC",
+            "CSV"
+          ],
+          "size": 6.525,
+          "unit": {
+            "value": "GB"
+          },
+          "access": {
+            "landingPage": "https://www.braincode.ca/",
+            "authorizations": [
+              {
+                "value": "Public"
+              }
+            ]
+          }
+        }
+      ],
+      "creators": [
+        {
+          "name": "Ontario Brain Institute",
+          "abbreviation": "OBI",
+          "location": {
+            "name": "Toronto",
+            "postalAddress": "1 Richmond Street West"
+          }
+        },
+        {
+          "name": "Mouse Imaging Centre",
+          "abbreviation": "MICe",
+          "location": {
+            "name": "Toronto",
+            "postalAddress": "25 Orde Street"
+          }
+        }
+      ],
+      "licenses": [
+        {
+          "name": "Refer to Brain-CODE Governance Policy"
+        }
+      ],
+      "acknowledges": [
+        {
+          "name": "",
+          "funders": [
+            {
+              "name": "Ontario Brain Institute",
+              "abbreviation": "OBI",
+              "location": {
+                "name": "Toronto",
+                "postalAddress": "1 Richmond Street West"
+              }
+            },
+            {
+              "name": "Province of Ontario Neurodevelopmental Disorders",
+              "abbreviation": "POND"
+            },
+            {
+              "name": "Government of Ontario"
+            }
+          ]
+        }
+      ],
+      "keywords": [
+        {
+          "value": "Structural MRI"
+        }
+      ],
+      "extraProperties": [
+        {
+          "category": "subjects",
+          "values": [
+            {
+              "value": 42
+            }
+          ]
+        },
+        {
+          "category": "files",
+          "values": [
+            {
+              "value": 214
+            }
+          ]
+        },
+        {
+          "category": "CONP_status",
+          "values": [
+            {
+              "value": "CONP"
+            }
+          ]
+        },
+        {
+          "category": "contact",
+          "values": [
+            {
+              "value": "Jacob Ellegood, Research Associate, jacob.ellegood@sickkids.ca"
+            }
+          ]
+        },
+        {
+          "category": "logo",
+          "values": [
+            {
+              "value": "logo.png"
+            }
+          ]
+        }
+      ],
+      "version": "1.0"
+    },
+    {
+      "title": "High Resolution MRI of Mouse Models Related to Autism - PND49",
+      "description": "Neuroimaging study of Slc6a4 KO Mouse Model",
+      "dates": [
+        {
+          "date": "2018-02-01",
+          "type": {
+            "value": "Release Date"
+          }
+        },
+        {
+          "date": "2012-02-01",
+          "type": {
+            "value": "Start Date"
+          }
+        },
+        {
+          "date": "2017-02-01",
+          "type": {
+            "value": "End Date"
+          }
+        }
+      ],
+      "storedIn": {
+        "name": "Brain-CODE",
+        "description": "Informatics platform for neuroscience data managed by the Ontario Brain Institute",
+        "publishers": [
+          {
+            "name": "Ontario Brain Institute",
+            "abbreviation": "OBI"
+          }
+        ]
+      },
+      "spatialCoverage": [
+        {
+          "name": "Toronto"
+        }
+      ],
+      "types": [
+        {
+          "information": {
+            "value": "MRI"
+          }
+        },
+        {
+          "information": {
+            "value": "Study Information"
+          }
+        }
+      ],
+      "availability": "available",
+      "refinement": "Data provided includes both the raw data acquired from the scanner as well as the outputs of our registration process",
+      "aggregation": "instance of dataset",
+      "privacy": "Registered access",
+      "distributions": [
+        {
+          "formats": [
+            "MINC",
+            "CSV"
+          ],
+          "size": 6.044,
+          "unit": {
+            "value": "GB"
+          },
+          "access": {
+            "landingPage": "https://www.braincode.ca/",
+            "authorizations": [
+              {
+                "value": "Public"
+              }
+            ]
+          }
+        }
+      ],
+      "creators": [
+        {
+          "name": "Ontario Brain Institute",
+          "abbreviation": "OBI",
+          "location": {
+            "name": "Toronto",
+            "postalAddress": "1 Richmond Street West"
+          }
+        },
+        {
+          "name": "Mouse Imaging Centre",
+          "abbreviation": "MICe",
+          "location": {
+            "name": "Toronto",
+            "postalAddress": "25 Orde Street"
+          }
+        }
+      ],
+      "licenses": [
+        {
+          "name": "Refer to Brain-CODE Governance Policy"
+        }
+      ],
+      "acknowledges": [
+        {
+          "name": "",
+          "funders": [
+            {
+              "name": "Ontario Brain Institute",
+              "abbreviation": "OBI",
+              "location": {
+                "name": "Toronto",
+                "postalAddress": "1 Richmond Street West"
+              }
+            },
+            {
+              "name": "Province of Ontario Neurodevelopmental Disorders",
+              "abbreviation": "POND"
+            },
+            {
+              "name": "Government of Ontario"
+            }
+          ]
+        }
+      ],
+      "keywords": [
+        {
+          "value": "Structural MRI"
+        }
+      ],
+      "extraProperties": [
+        {
+          "category": "subjects",
+          "values": [
+            {
+              "value": 39
+            }
+          ]
+        },
+        {
+          "category": "files",
+          "values": [
+            {
+              "value": 199
+            }
+          ]
+        },
+        {
+          "category": "CONP_status",
+          "values": [
+            {
+              "value": "CONP"
+            }
+          ]
+        },
+        {
+          "category": "contact",
+          "values": [
+            {
+              "value": "Jacob Ellegood, Research Associate, jacob.ellegood@sickkids.ca"
+            }
+          ]
+        },
+        {
+          "category": "logo",
+          "values": [
+            {
+              "value": "logo.png"
+            }
+          ]
+        }
+      ],
+      "version": "1.0"
+    },
+    {
+      "title": "High Resolution MRI of Mouse Models Related to Autism - PND50",
+      "description": "Neuroimaging study of SGSH Mouse Model",
+      "dates": [
+        {
+          "date": "2018-02-01",
+          "type": {
+            "value": "Release Date"
+          }
+        },
+        {
+          "date": "2012-02-01",
+          "type": {
+            "value": "Start Date"
+          }
+        },
+        {
+          "date": "2017-02-01",
+          "type": {
+            "value": "End Date"
+          }
+        }
+      ],
+      "storedIn": {
+        "name": "Brain-CODE",
+        "description": "Informatics platform for neuroscience data managed by the Ontario Brain Institute",
+        "publishers": [
+          {
+            "name": "Ontario Brain Institute",
+            "abbreviation": "OBI"
+          }
+        ]
+      },
+      "spatialCoverage": [
+        {
+          "name": "Toronto"
+        }
+      ],
+      "types": [
+        {
+          "information": {
+            "value": "MRI"
+          }
+        },
+        {
+          "information": {
+            "value": "Study Information"
+          }
+        }
+      ],
+      "availability": "available",
+      "refinement": "Data provided includes both the raw data acquired from the scanner as well as the outputs of our registration process",
+      "aggregation": "instance of dataset",
+      "privacy": "Registered access",
+      "distributions": [
+        {
+          "formats": [
+            "MINC",
+            "CSV"
+          ],
+          "size": 13.927,
+          "unit": {
+            "value": "GB"
+          },
+          "access": {
+            "landingPage": "https://www.braincode.ca/",
+            "authorizations": [
+              {
+                "value": "Public"
+              }
+            ]
+          }
+        }
+      ],
+      "creators": [
+        {
+          "name": "Ontario Brain Institute",
+          "abbreviation": "OBI",
+          "location": {
+            "name": "Toronto",
+            "postalAddress": "1 Richmond Street West"
+          }
+        },
+        {
+          "name": "Mouse Imaging Centre",
+          "abbreviation": "MICe",
+          "location": {
+            "name": "Toronto",
+            "postalAddress": "25 Orde Street"
+          }
+        }
+      ],
+      "licenses": [
+        {
+          "name": "Refer to Brain-CODE Governance Policy"
+        }
+      ],
+      "acknowledges": [
+        {
+          "name": "",
+          "funders": [
+            {
+              "name": "Ontario Brain Institute",
+              "abbreviation": "OBI",
+              "location": {
+                "name": "Toronto",
+                "postalAddress": "1 Richmond Street West"
+              }
+            },
+            {
+              "name": "Province of Ontario Neurodevelopmental Disorders",
+              "abbreviation": "POND"
+            },
+            {
+              "name": "Government of Ontario"
+            }
+          ]
+        }
+      ],
+      "keywords": [
+        {
+          "value": "Structural MRI"
+        }
+      ],
+      "extraProperties": [
+        {
+          "category": "subjects",
+          "values": [
+            {
+              "value": 47
+            }
+          ]
+        },
+        {
+          "category": "files",
+          "values": [
+            {
+              "value": 239
+            }
+          ]
+        },
+        {
+          "category": "CONP_status",
+          "values": [
+            {
+              "value": "CONP"
+            }
+          ]
+        },
+        {
+          "category": "contact",
+          "values": [
+            {
+              "value": "Jacob Ellegood, Research Associate, jacob.ellegood@sickkids.ca"
+            }
+          ]
+        },
+        {
+          "category": "logo",
+          "values": [
+            {
+              "value": "logo.png"
+            }
+          ]
+        }
+      ],
+      "version": "1.0"
+    },
+    {
+      "title": "High Resolution MRI of Mouse Models Related to Autism - PND51",
+      "description": "Neuroimaging study of SHANK3 Mouse Model",
+      "dates": [
+        {
+          "date": "2018-02-01",
+          "type": {
+            "value": "Release Date"
+          }
+        },
+        {
+          "date": "2012-02-01",
+          "type": {
+            "value": "Start Date"
+          }
+        },
+        {
+          "date": "2017-02-01",
+          "type": {
+            "value": "End Date"
+          }
+        }
+      ],
+      "storedIn": {
+        "name": "Brain-CODE",
+        "description": "Informatics platform for neuroscience data managed by the Ontario Brain Institute",
+        "publishers": [
+          {
+            "name": "Ontario Brain Institute",
+            "abbreviation": "OBI"
+          }
+        ]
+      },
+      "spatialCoverage": [
+        {
+          "name": "Toronto"
+        }
+      ],
+      "types": [
+        {
+          "information": {
+            "value": "MRI"
+          }
+        },
+        {
+          "information": {
+            "value": "Study Information"
+          }
+        }
+      ],
+      "availability": "available",
+      "refinement": "Data provided includes both the raw data acquired from the scanner as well as the outputs of our registration process",
+      "aggregation": "instance of dataset",
+      "privacy": "Registered access",
+      "distributions": [
+        {
+          "formats": [
+            "MINC",
+            "CSV"
+          ],
+          "size": 4.630,
+          "unit": {
+            "value": "GB"
+          },
+          "access": {
+            "landingPage": "https://www.braincode.ca/",
+            "authorizations": [
+              {
+                "value": "Public"
+              }
+            ]
+          }
+        }
+      ],
+      "creators": [
+        {
+          "name": "Ontario Brain Institute",
+          "abbreviation": "OBI",
+          "location": {
+            "name": "Toronto",
+            "postalAddress": "1 Richmond Street West"
+          }
+        },
+        {
+          "name": "Mouse Imaging Centre",
+          "abbreviation": "MICe",
+          "location": {
+            "name": "Toronto",
+            "postalAddress": "25 Orde Street"
+          }
+        }
+      ],
+      "licenses": [
+        {
+          "name": "Refer to Brain-CODE Governance Policy"
+        }
+      ],
+      "acknowledges": [
+        {
+          "name": "",
+          "funders": [
+            {
+              "name": "Ontario Brain Institute",
+              "abbreviation": "OBI",
+              "location": {
+                "name": "Toronto",
+                "postalAddress": "1 Richmond Street West"
+              }
+            },
+            {
+              "name": "Province of Ontario Neurodevelopmental Disorders",
+              "abbreviation": "POND"
+            },
+            {
+              "name": "Government of Ontario"
+            }
+          ]
+        }
+      ],
+      "keywords": [
+        {
+          "value": "Structural MRI"
+        }
+      ],
+      "extraProperties": [
+        {
+          "category": "subjects",
+          "values": [
+            {
+              "value": 30
+            }
+          ]
+        },
+        {
+          "category": "files",
+          "values": [
+            {
+              "value": 154
+            }
+          ]
+        },
+        {
+          "category": "CONP_status",
+          "values": [
+            {
+              "value": "CONP"
+            }
+          ]
+        },
+        {
+          "category": "contact",
+          "values": [
+            {
+              "value": "Jacob Ellegood, Research Associate, jacob.ellegood@sickkids.ca"
+            }
+          ]
+        },
+        {
+          "category": "logo",
+          "values": [
+            {
+              "value": "logo.png"
+            }
+          ]
+        }
+      ],
+      "version": "1.0"
+    },
+    {
+      "title": "High Resolution MRI of Mouse Models Related to Autism - PND54",
+      "description": "Neuroimaging study of Turner Syndrome Mouse Model",
+      "dates": [
+        {
+          "date": "2018-02-01",
+          "type": {
+            "value": "Release Date"
+          }
+        },
+        {
+          "date": "2012-02-01",
+          "type": {
+            "value": "Start Date"
+          }
+        },
+        {
+          "date": "2017-02-01",
+          "type": {
+            "value": "End Date"
+          }
+        }
+      ],
+      "storedIn": {
+        "name": "Brain-CODE",
+        "description": "Informatics platform for neuroscience data managed by the Ontario Brain Institute",
+        "publishers": [
+          {
+            "name": "Ontario Brain Institute",
+            "abbreviation": "OBI"
+          }
+        ]
+      },
+      "spatialCoverage": [
+        {
+          "name": "Toronto"
+        }
+      ],
+      "types": [
+        {
+          "information": {
+            "value": "MRI"
+          }
+        },
+        {
+          "information": {
+            "value": "Study Information"
+          }
+        }
+      ],
+      "availability": "available",
+      "refinement": "Data provided includes both the raw data acquired from the scanner as well as the outputs of our registration process",
+      "aggregation": "instance of dataset",
+      "privacy": "Registered access",
+      "distributions": [
+        {
+          "formats": [
+            "MINC",
+            "CSV"
+          ],
+          "size": 17.222,
+          "unit": {
+            "value": "GB"
+          },
+          "access": {
+            "landingPage": "https://www.braincode.ca/",
+            "authorizations": [
+              {
+                "value": "Public"
+              }
+            ]
+          }
+        }
+      ],
+      "creators": [
+        {
+          "name": "Ontario Brain Institute",
+          "abbreviation": "OBI",
+          "location": {
+            "name": "Toronto",
+            "postalAddress": "1 Richmond Street West"
+          }
+        },
+        {
+          "name": "Mouse Imaging Centre",
+          "abbreviation": "MICe",
+          "location": {
+            "name": "Toronto",
+            "postalAddress": "25 Orde Street"
+          }
+        }
+      ],
+      "licenses": [
+        {
+          "name": "Refer to Brain-CODE Governance Policy"
+        }
+      ],
+      "acknowledges": [
+        {
+          "name": "",
+          "funders": [
+            {
+              "name": "Ontario Brain Institute",
+              "abbreviation": "OBI",
+              "location": {
+                "name": "Toronto",
+                "postalAddress": "1 Richmond Street West"
+              }
+            },
+            {
+              "name": "Province of Ontario Neurodevelopmental Disorders",
+              "abbreviation": "POND"
+            },
+            {
+              "name": "Government of Ontario"
+            }
+          ]
+        }
+      ],
+      "keywords": [
+        {
+          "value": "Structural MRI"
+        }
+      ],
+      "extraProperties": [
+        {
+          "category": "subjects",
+          "values": [
+            {
+              "value": 33
+            }
+          ]
+        },
+        {
+          "category": "files",
+          "values": [
+            {
+              "value": 169
+            }
+          ]
+        },
+        {
+          "category": "CONP_status",
+          "values": [
+            {
+              "value": "CONP"
+            }
+          ]
+        },
+        {
+          "category": "contact",
+          "values": [
+            {
+              "value": "Jacob Ellegood, Research Associate, jacob.ellegood@sickkids.ca"
+            }
+          ]
+        },
+        {
+          "category": "logo",
+          "values": [
+            {
+              "value": "logo.png"
+            }
+          ]
+        }
+      ],
+      "version": "1.0"
+    },
+    {
+      "title": "High Resolution MRI of Mouse Models Related to Autism - PND55",
+      "description": "Neuroimaging study of Ube3a Mouse Model",
+      "dates": [
+        {
+          "date": "2018-02-01",
+          "type": {
+            "value": "Release Date"
+          }
+        },
+        {
+          "date": "2012-02-01",
+          "type": {
+            "value": "Start Date"
+          }
+        },
+        {
+          "date": "2017-02-01",
+          "type": {
+            "value": "End Date"
+          }
+        }
+      ],
+      "storedIn": {
+        "name": "Brain-CODE",
+        "description": "Informatics platform for neuroscience data managed by the Ontario Brain Institute",
+        "publishers": [
+          {
+            "name": "Ontario Brain Institute",
+            "abbreviation": "OBI"
+          }
+        ]
+      },
+      "spatialCoverage": [
+        {
+          "name": "Toronto"
+        }
+      ],
+      "types": [
+        {
+          "information": {
+            "value": "MRI"
+          }
+        },
+        {
+          "information": {
+            "value": "Study Information"
+          }
+        }
+      ],
+      "availability": "available",
+      "refinement": "Data provided includes both the raw data acquired from the scanner as well as the outputs of our registration process",
+      "aggregation": "instance of dataset",
+      "privacy": "Registered access",
+      "distributions": [
+        {
+          "formats": [
+            "MINC",
+            "CSV"
+          ],
+          "size": 4.087,
+          "unit": {
+            "value": "GB"
+          },
+          "access": {
+            "landingPage": "https://www.braincode.ca/",
+            "authorizations": [
+              {
+                "value": "Public"
+              }
+            ]
+          }
+        }
+      ],
+      "creators": [
+        {
+          "name": "Ontario Brain Institute",
+          "abbreviation": "OBI",
+          "location": {
+            "name": "Toronto",
+            "postalAddress": "1 Richmond Street West"
+          }
+        },
+        {
+          "name": "Mouse Imaging Centre",
+          "abbreviation": "MICe",
+          "location": {
+            "name": "Toronto",
+            "postalAddress": "25 Orde Street"
+          }
+        }
+      ],
+      "licenses": [
+        {
+          "name": "Refer to Brain-CODE Governance Policy"
+        }
+      ],
+      "acknowledges": [
+        {
+          "name": "",
+          "funders": [
+            {
+              "name": "Ontario Brain Institute",
+              "abbreviation": "OBI",
+              "location": {
+                "name": "Toronto",
+                "postalAddress": "1 Richmond Street West"
+              }
+            },
+            {
+              "name": "Province of Ontario Neurodevelopmental Disorders",
+              "abbreviation": "POND"
+            },
+            {
+              "name": "Government of Ontario"
+            }
+          ]
+        }
+      ],
+      "keywords": [
+        {
+          "value": "Structural MRI"
+        }
+      ],
+      "extraProperties": [
+        {
+          "category": "subjects",
+          "values": [
+            {
+              "value": 32
+            }
+          ]
+        },
+        {
+          "category": "files",
+          "values": [
+            {
+              "value": 164
+            }
+          ]
+        },
+        {
+          "category": "CONP_status",
+          "values": [
+            {
+              "value": "CONP"
+            }
+          ]
+        },
+        {
+          "category": "contact",
+          "values": [
+            {
+              "value": "Jacob Ellegood, Research Associate, jacob.ellegood@sickkids.ca"
+            }
+          ]
+        },
+        {
+          "category": "logo",
+          "values": [
+            {
+              "value": "logo.png"
+            }
+          ]
+        }
+      ],
+      "version": "1.0"
+    }
+  ]
+}
