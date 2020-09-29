@@ -196,7 +196,7 @@
         "authorizations": [
           {
             "@type": "Annotation",
-            "value": "Public"
+            "value": "private"
           }
         ]
       }
@@ -311,6 +311,50 @@
           "value": "logo.png"
         }
       ]
+    },
+    {
+      "@type": "CategoryValuesPair",
+      "category": "origin_institution",
+      "values": [
+        {
+          "@type": "Annotation",
+          "value": "Ontario Brain Institute"
+        },
+        {
+          "@type": "Annotation",
+          "value": "Mouse Imaging Centre"
+        }
+      ]
+    },
+    {
+      "@type": "CategoryValuesPair",
+      "category": "origin_city",
+      "values": [
+        {
+          "@type": "Annotation",
+          "value": "Toronto"
+        }
+      ]
+    },
+    {
+      "@type": "CategoryValuesPair",
+      "category": "origin_province",
+      "values": [
+        {
+          "@type": "Annotation",
+          "value": "Ontario"
+        }
+      ]
+    },
+    {
+      "@type": "CategoryValuesPair",
+      "category": "origin_country",
+      "values": [
+        {
+          "@type": "Annotation",
+          "value": "Canada"
+        }
+      ]
     }
   ],
   "version": "1.0",
@@ -400,7 +444,7 @@
             "authorizations": [
               {
                 "@type": "Annotation",
-                "value": "Public"
+                "value": "private"
               }
             ]
           }
@@ -515,6 +559,50 @@
               "value": "logo.png"
             }
           ]
+        },
+        {
+          "@type": "CategoryValuesPair",
+          "category": "origin_institution",
+          "values": [
+            {
+              "@type": "Annotation",
+              "value": "Ontario Brain Institute"
+            },
+            {
+              "@type": "Annotation",
+              "value": "Mouse Imaging Centre"
+            }
+          ]
+        },
+        {
+          "@type": "CategoryValuesPair",
+          "category": "origin_city",
+          "values": [
+            {
+              "@type": "Annotation",
+              "value": "Toronto"
+            }
+          ]
+        },
+        {
+          "@type": "CategoryValuesPair",
+          "category": "origin_province",
+          "values": [
+            {
+              "@type": "Annotation",
+              "value": "Ontario"
+            }
+          ]
+        },
+        {
+          "@type": "CategoryValuesPair",
+          "category": "origin_country",
+          "values": [
+            {
+              "@type": "Annotation",
+              "value": "Canada"
+            }
+          ]
         }
       ],
       "version": "1.0"
@@ -604,7 +692,7 @@
             "authorizations": [
               {
                 "@type": "Annotation",
-                "value": "Public"
+                "value": "private"
               }
             ]
           }
@@ -719,6 +807,50 @@
               "value": "logo.png"
             }
           ]
+        },
+        {
+          "@type": "CategoryValuesPair",
+          "category": "origin_institution",
+          "values": [
+            {
+              "@type": "Annotation",
+              "value": "Ontario Brain Institute"
+            },
+            {
+              "@type": "Annotation",
+              "value": "Mouse Imaging Centre"
+            }
+          ]
+        },
+        {
+          "@type": "CategoryValuesPair",
+          "category": "origin_city",
+          "values": [
+            {
+              "@type": "Annotation",
+              "value": "Toronto"
+            }
+          ]
+        },
+        {
+          "@type": "CategoryValuesPair",
+          "category": "origin_province",
+          "values": [
+            {
+              "@type": "Annotation",
+              "value": "Ontario"
+            }
+          ]
+        },
+        {
+          "@type": "CategoryValuesPair",
+          "category": "origin_country",
+          "values": [
+            {
+              "@type": "Annotation",
+              "value": "Canada"
+            }
+          ]
         }
       ],
       "version": "1.0"
@@ -808,7 +940,7 @@
             "authorizations": [
               {
                 "@type": "Annotation",
-                "value": "Public"
+                "value": "private"
               }
             ]
           }
@@ -923,6 +1055,50 @@
               "value": "logo.png"
             }
           ]
+        },
+        {
+          "@type": "CategoryValuesPair",
+          "category": "origin_institution",
+          "values": [
+            {
+              "@type": "Annotation",
+              "value": "Ontario Brain Institute"
+            },
+            {
+              "@type": "Annotation",
+              "value": "Mouse Imaging Centre"
+            }
+          ]
+        },
+        {
+          "@type": "CategoryValuesPair",
+          "category": "origin_city",
+          "values": [
+            {
+              "@type": "Annotation",
+              "value": "Toronto"
+            }
+          ]
+        },
+        {
+          "@type": "CategoryValuesPair",
+          "category": "origin_province",
+          "values": [
+            {
+              "@type": "Annotation",
+              "value": "Ontario"
+            }
+          ]
+        },
+        {
+          "@type": "CategoryValuesPair",
+          "category": "origin_country",
+          "values": [
+            {
+              "@type": "Annotation",
+              "value": "Canada"
+            }
+          ]
         }
       ],
       "version": "1.0"
@@ -1012,7 +1188,7 @@
             "authorizations": [
               {
                 "@type": "Annotation",
-                "value": "Public"
+                "value": "private"
               }
             ]
           }
@@ -1127,6 +1303,50 @@
               "value": "logo.png"
             }
           ]
+        },
+        {
+          "@type": "CategoryValuesPair",
+          "category": "origin_institution",
+          "values": [
+            {
+              "@type": "Annotation",
+              "value": "Ontario Brain Institute"
+            },
+            {
+              "@type": "Annotation",
+              "value": "Mouse Imaging Centre"
+            }
+          ]
+        },
+        {
+          "@type": "CategoryValuesPair",
+          "category": "origin_city",
+          "values": [
+            {
+              "@type": "Annotation",
+              "value": "Toronto"
+            }
+          ]
+        },
+        {
+          "@type": "CategoryValuesPair",
+          "category": "origin_province",
+          "values": [
+            {
+              "@type": "Annotation",
+              "value": "Ontario"
+            }
+          ]
+        },
+        {
+          "@type": "CategoryValuesPair",
+          "category": "origin_country",
+          "values": [
+            {
+              "@type": "Annotation",
+              "value": "Canada"
+            }
+          ]
         }
       ],
       "version": "1.0"
@@ -1216,7 +1436,7 @@
             "authorizations": [
               {
                 "@type": "Annotation",
-                "value": "Public"
+                "value": "private"
               }
             ]
           }
@@ -1331,6 +1551,50 @@
               "value": "logo.png"
             }
           ]
+        },
+        {
+          "@type": "CategoryValuesPair",
+          "category": "origin_institution",
+          "values": [
+            {
+              "@type": "Annotation",
+              "value": "Ontario Brain Institute"
+            },
+            {
+              "@type": "Annotation",
+              "value": "Mouse Imaging Centre"
+            }
+          ]
+        },
+        {
+          "@type": "CategoryValuesPair",
+          "category": "origin_city",
+          "values": [
+            {
+              "@type": "Annotation",
+              "value": "Toronto"
+            }
+          ]
+        },
+        {
+          "@type": "CategoryValuesPair",
+          "category": "origin_province",
+          "values": [
+            {
+              "@type": "Annotation",
+              "value": "Ontario"
+            }
+          ]
+        },
+        {
+          "@type": "CategoryValuesPair",
+          "category": "origin_country",
+          "values": [
+            {
+              "@type": "Annotation",
+              "value": "Canada"
+            }
+          ]
         }
       ],
       "version": "1.0"
@@ -1420,7 +1684,7 @@
             "authorizations": [
               {
                 "@type": "Annotation",
-                "value": "Public"
+                "value": "private"
               }
             ]
           }
@@ -1535,6 +1799,50 @@
               "value": "logo.png"
             }
           ]
+        },
+        {
+          "@type": "CategoryValuesPair",
+          "category": "origin_institution",
+          "values": [
+            {
+              "@type": "Annotation",
+              "value": "Ontario Brain Institute"
+            },
+            {
+              "@type": "Annotation",
+              "value": "Mouse Imaging Centre"
+            }
+          ]
+        },
+        {
+          "@type": "CategoryValuesPair",
+          "category": "origin_city",
+          "values": [
+            {
+              "@type": "Annotation",
+              "value": "Toronto"
+            }
+          ]
+        },
+        {
+          "@type": "CategoryValuesPair",
+          "category": "origin_province",
+          "values": [
+            {
+              "@type": "Annotation",
+              "value": "Ontario"
+            }
+          ]
+        },
+        {
+          "@type": "CategoryValuesPair",
+          "category": "origin_country",
+          "values": [
+            {
+              "@type": "Annotation",
+              "value": "Canada"
+            }
+          ]
         }
       ],
       "version": "1.0"
@@ -1624,7 +1932,7 @@
             "authorizations": [
               {
                 "@type": "Annotation",
-                "value": "Public"
+                "value": "private"
               }
             ]
           }
@@ -1740,6 +2048,50 @@
               "value": "logo.png"
             }
           ]
+        },
+        {
+          "@type": "CategoryValuesPair",
+          "category": "origin_institution",
+          "values": [
+            {
+              "@type": "Annotation",
+              "value": "Ontario Brain Institute"
+            },
+            {
+              "@type": "Annotation",
+              "value": "Mouse Imaging Centre"
+            }
+          ]
+        },
+        {
+          "@type": "CategoryValuesPair",
+          "category": "origin_city",
+          "values": [
+            {
+              "@type": "Annotation",
+              "value": "Toronto"
+            }
+          ]
+        },
+        {
+          "@type": "CategoryValuesPair",
+          "category": "origin_province",
+          "values": [
+            {
+              "@type": "Annotation",
+              "value": "Ontario"
+            }
+          ]
+        },
+        {
+          "@type": "CategoryValuesPair",
+          "category": "origin_country",
+          "values": [
+            {
+              "@type": "Annotation",
+              "value": "Canada"
+            }
+          ]
         }
       ],
       "version": "1.0"
@@ -1829,7 +2181,7 @@
             "authorizations": [
               {
                 "@type": "Annotation",
-                "value": "Public"
+                "value": "private"
               }
             ]
           }
@@ -1945,6 +2297,50 @@
               "value": "logo.png"
             }
           ]
+        },
+        {
+          "@type": "CategoryValuesPair",
+          "category": "origin_institution",
+          "values": [
+            {
+              "@type": "Annotation",
+              "value": "Ontario Brain Institute"
+            },
+            {
+              "@type": "Annotation",
+              "value": "Mouse Imaging Centre"
+            }
+          ]
+        },
+        {
+          "@type": "CategoryValuesPair",
+          "category": "origin_city",
+          "values": [
+            {
+              "@type": "Annotation",
+              "value": "Toronto"
+            }
+          ]
+        },
+        {
+          "@type": "CategoryValuesPair",
+          "category": "origin_province",
+          "values": [
+            {
+              "@type": "Annotation",
+              "value": "Ontario"
+            }
+          ]
+        },
+        {
+          "@type": "CategoryValuesPair",
+          "category": "origin_country",
+          "values": [
+            {
+              "@type": "Annotation",
+              "value": "Canada"
+            }
+          ]
         }
       ],
       "version": "1.0"
@@ -2034,7 +2430,7 @@
             "authorizations": [
               {
                 "@type": "Annotation",
-                "value": "Public"
+                "value": "private"
               }
             ]
           }
@@ -2150,6 +2546,50 @@
               "value": "logo.png"
             }
           ]
+        },
+        {
+          "@type": "CategoryValuesPair",
+          "category": "origin_institution",
+          "values": [
+            {
+              "@type": "Annotation",
+              "value": "Ontario Brain Institute"
+            },
+            {
+              "@type": "Annotation",
+              "value": "Mouse Imaging Centre"
+            }
+          ]
+        },
+        {
+          "@type": "CategoryValuesPair",
+          "category": "origin_city",
+          "values": [
+            {
+              "@type": "Annotation",
+              "value": "Toronto"
+            }
+          ]
+        },
+        {
+          "@type": "CategoryValuesPair",
+          "category": "origin_province",
+          "values": [
+            {
+              "@type": "Annotation",
+              "value": "Ontario"
+            }
+          ]
+        },
+        {
+          "@type": "CategoryValuesPair",
+          "category": "origin_country",
+          "values": [
+            {
+              "@type": "Annotation",
+              "value": "Canada"
+            }
+          ]
         }
       ],
       "version": "1.0"
@@ -2239,7 +2679,7 @@
             "authorizations": [
               {
                 "@type": "Annotation",
-                "value": "Public"
+                "value": "private"
               }
             ]
           }
@@ -2355,6 +2795,50 @@
               "value": "logo.png"
             }
           ]
+        },
+        {
+          "@type": "CategoryValuesPair",
+          "category": "origin_institution",
+          "values": [
+            {
+              "@type": "Annotation",
+              "value": "Ontario Brain Institute"
+            },
+            {
+              "@type": "Annotation",
+              "value": "Mouse Imaging Centre"
+            }
+          ]
+        },
+        {
+          "@type": "CategoryValuesPair",
+          "category": "origin_city",
+          "values": [
+            {
+              "@type": "Annotation",
+              "value": "Toronto"
+            }
+          ]
+        },
+        {
+          "@type": "CategoryValuesPair",
+          "category": "origin_province",
+          "values": [
+            {
+              "@type": "Annotation",
+              "value": "Ontario"
+            }
+          ]
+        },
+        {
+          "@type": "CategoryValuesPair",
+          "category": "origin_country",
+          "values": [
+            {
+              "@type": "Annotation",
+              "value": "Canada"
+            }
+          ]
         }
       ],
       "version": "1.0"
@@ -2444,7 +2928,7 @@
             "authorizations": [
               {
                 "@type": "Annotation",
-                "value": "Public"
+                "value": "private"
               }
             ]
           }
@@ -2560,6 +3044,50 @@
               "value": "logo.png"
             }
           ]
+        },
+        {
+          "@type": "CategoryValuesPair",
+          "category": "origin_institution",
+          "values": [
+            {
+              "@type": "Annotation",
+              "value": "Ontario Brain Institute"
+            },
+            {
+              "@type": "Annotation",
+              "value": "Mouse Imaging Centre"
+            }
+          ]
+        },
+        {
+          "@type": "CategoryValuesPair",
+          "category": "origin_city",
+          "values": [
+            {
+              "@type": "Annotation",
+              "value": "Toronto"
+            }
+          ]
+        },
+        {
+          "@type": "CategoryValuesPair",
+          "category": "origin_province",
+          "values": [
+            {
+              "@type": "Annotation",
+              "value": "Ontario"
+            }
+          ]
+        },
+        {
+          "@type": "CategoryValuesPair",
+          "category": "origin_country",
+          "values": [
+            {
+              "@type": "Annotation",
+              "value": "Canada"
+            }
+          ]
         }
       ],
       "version": "1.0"
@@ -2649,7 +3177,7 @@
             "authorizations": [
               {
                 "@type": "Annotation",
-                "value": "Public"
+                "value": "private"
               }
             ]
           }
@@ -2765,6 +3293,50 @@
               "value": "logo.png"
             }
           ]
+        },
+        {
+          "@type": "CategoryValuesPair",
+          "category": "origin_institution",
+          "values": [
+            {
+              "@type": "Annotation",
+              "value": "Ontario Brain Institute"
+            },
+            {
+              "@type": "Annotation",
+              "value": "Mouse Imaging Centre"
+            }
+          ]
+        },
+        {
+          "@type": "CategoryValuesPair",
+          "category": "origin_city",
+          "values": [
+            {
+              "@type": "Annotation",
+              "value": "Toronto"
+            }
+          ]
+        },
+        {
+          "@type": "CategoryValuesPair",
+          "category": "origin_province",
+          "values": [
+            {
+              "@type": "Annotation",
+              "value": "Ontario"
+            }
+          ]
+        },
+        {
+          "@type": "CategoryValuesPair",
+          "category": "origin_country",
+          "values": [
+            {
+              "@type": "Annotation",
+              "value": "Canada"
+            }
+          ]
         }
       ],
       "version": "1.0"
@@ -2854,7 +3426,7 @@
             "authorizations": [
               {
                 "@type": "Annotation",
-                "value": "Public"
+                "value": "private"
               }
             ]
           }
@@ -2970,6 +3542,50 @@
               "value": "logo.png"
             }
           ]
+        },
+        {
+          "@type": "CategoryValuesPair",
+          "category": "origin_institution",
+          "values": [
+            {
+              "@type": "Annotation",
+              "value": "Ontario Brain Institute"
+            },
+            {
+              "@type": "Annotation",
+              "value": "Mouse Imaging Centre"
+            }
+          ]
+        },
+        {
+          "@type": "CategoryValuesPair",
+          "category": "origin_city",
+          "values": [
+            {
+              "@type": "Annotation",
+              "value": "Toronto"
+            }
+          ]
+        },
+        {
+          "@type": "CategoryValuesPair",
+          "category": "origin_province",
+          "values": [
+            {
+              "@type": "Annotation",
+              "value": "Ontario"
+            }
+          ]
+        },
+        {
+          "@type": "CategoryValuesPair",
+          "category": "origin_country",
+          "values": [
+            {
+              "@type": "Annotation",
+              "value": "Canada"
+            }
+          ]
         }
       ],
       "version": "1.0"
@@ -3059,7 +3675,7 @@
             "authorizations": [
               {
                 "@type": "Annotation",
-                "value": "Public"
+                "value": "private"
               }
             ]
           }
@@ -3175,6 +3791,50 @@
               "value": "logo.png"
             }
           ]
+        },
+        {
+          "@type": "CategoryValuesPair",
+          "category": "origin_institution",
+          "values": [
+            {
+              "@type": "Annotation",
+              "value": "Ontario Brain Institute"
+            },
+            {
+              "@type": "Annotation",
+              "value": "Mouse Imaging Centre"
+            }
+          ]
+        },
+        {
+          "@type": "CategoryValuesPair",
+          "category": "origin_city",
+          "values": [
+            {
+              "@type": "Annotation",
+              "value": "Toronto"
+            }
+          ]
+        },
+        {
+          "@type": "CategoryValuesPair",
+          "category": "origin_province",
+          "values": [
+            {
+              "@type": "Annotation",
+              "value": "Ontario"
+            }
+          ]
+        },
+        {
+          "@type": "CategoryValuesPair",
+          "category": "origin_country",
+          "values": [
+            {
+              "@type": "Annotation",
+              "value": "Canada"
+            }
+          ]
         }
       ],
       "version": "1.0"
@@ -3264,7 +3924,7 @@
             "authorizations": [
               {
                 "@type": "Annotation",
-                "value": "Public"
+                "value": "private"
               }
             ]
           }
@@ -3378,6 +4038,50 @@
             {
               "@type": "Annotation",
               "value": "logo.png"
+            }
+          ]
+        },
+        {
+          "@type": "CategoryValuesPair",
+          "category": "origin_institution",
+          "values": [
+            {
+              "@type": "Annotation",
+              "value": "Ontario Brain Institute"
+            },
+            {
+              "@type": "Annotation",
+              "value": "Mouse Imaging Centre"
+            }
+          ]
+        },
+        {
+          "@type": "CategoryValuesPair",
+          "category": "origin_city",
+          "values": [
+            {
+              "@type": "Annotation",
+              "value": "Toronto"
+            }
+          ]
+        },
+        {
+          "@type": "CategoryValuesPair",
+          "category": "origin_province",
+          "values": [
+            {
+              "@type": "Annotation",
+              "value": "Ontario"
+            }
+          ]
+        },
+        {
+          "@type": "CategoryValuesPair",
+          "category": "origin_country",
+          "values": [
+            {
+              "@type": "Annotation",
+              "value": "Canada"
             }
           ]
         }
@@ -3469,7 +4173,7 @@
             "authorizations": [
               {
                 "@type": "Annotation",
-                "value": "Public"
+                "value": "private"
               }
             ]
           }
@@ -3585,6 +4289,50 @@
               "value": "logo.png"
             }
           ]
+        },
+        {
+          "@type": "CategoryValuesPair",
+          "category": "origin_institution",
+          "values": [
+            {
+              "@type": "Annotation",
+              "value": "Ontario Brain Institute"
+            },
+            {
+              "@type": "Annotation",
+              "value": "Mouse Imaging Centre"
+            }
+          ]
+        },
+        {
+          "@type": "CategoryValuesPair",
+          "category": "origin_city",
+          "values": [
+            {
+              "@type": "Annotation",
+              "value": "Toronto"
+            }
+          ]
+        },
+        {
+          "@type": "CategoryValuesPair",
+          "category": "origin_province",
+          "values": [
+            {
+              "@type": "Annotation",
+              "value": "Ontario"
+            }
+          ]
+        },
+        {
+          "@type": "CategoryValuesPair",
+          "category": "origin_country",
+          "values": [
+            {
+              "@type": "Annotation",
+              "value": "Canada"
+            }
+          ]
         }
       ],
       "version": "1.0"
@@ -3674,7 +4422,7 @@
             "authorizations": [
               {
                 "@type": "Annotation",
-                "value": "Public"
+                "value": "private"
               }
             ]
           }
@@ -3790,6 +4538,50 @@
               "value": "logo.png"
             }
           ]
+        },
+        {
+          "@type": "CategoryValuesPair",
+          "category": "origin_institution",
+          "values": [
+            {
+              "@type": "Annotation",
+              "value": "Ontario Brain Institute"
+            },
+            {
+              "@type": "Annotation",
+              "value": "Mouse Imaging Centre"
+            }
+          ]
+        },
+        {
+          "@type": "CategoryValuesPair",
+          "category": "origin_city",
+          "values": [
+            {
+              "@type": "Annotation",
+              "value": "Toronto"
+            }
+          ]
+        },
+        {
+          "@type": "CategoryValuesPair",
+          "category": "origin_province",
+          "values": [
+            {
+              "@type": "Annotation",
+              "value": "Ontario"
+            }
+          ]
+        },
+        {
+          "@type": "CategoryValuesPair",
+          "category": "origin_country",
+          "values": [
+            {
+              "@type": "Annotation",
+              "value": "Canada"
+            }
+          ]
         }
       ],
       "version": "1.0"
@@ -3879,7 +4671,7 @@
             "authorizations": [
               {
                 "@type": "Annotation",
-                "value": "Public"
+                "value": "private"
               }
             ]
           }
@@ -3995,6 +4787,50 @@
               "value": "logo.png"
             }
           ]
+        },
+        {
+          "@type": "CategoryValuesPair",
+          "category": "origin_institution",
+          "values": [
+            {
+              "@type": "Annotation",
+              "value": "Ontario Brain Institute"
+            },
+            {
+              "@type": "Annotation",
+              "value": "Mouse Imaging Centre"
+            }
+          ]
+        },
+        {
+          "@type": "CategoryValuesPair",
+          "category": "origin_city",
+          "values": [
+            {
+              "@type": "Annotation",
+              "value": "Toronto"
+            }
+          ]
+        },
+        {
+          "@type": "CategoryValuesPair",
+          "category": "origin_province",
+          "values": [
+            {
+              "@type": "Annotation",
+              "value": "Ontario"
+            }
+          ]
+        },
+        {
+          "@type": "CategoryValuesPair",
+          "category": "origin_country",
+          "values": [
+            {
+              "@type": "Annotation",
+              "value": "Canada"
+            }
+          ]
         }
       ],
       "version": "1.0"
@@ -4084,7 +4920,7 @@
             "authorizations": [
               {
                 "@type": "Annotation",
-                "value": "Public"
+                "value": "private"
               }
             ]
           }
@@ -4200,6 +5036,50 @@
               "value": "logo.png"
             }
           ]
+        },
+        {
+          "@type": "CategoryValuesPair",
+          "category": "origin_institution",
+          "values": [
+            {
+              "@type": "Annotation",
+              "value": "Ontario Brain Institute"
+            },
+            {
+              "@type": "Annotation",
+              "value": "Mouse Imaging Centre"
+            }
+          ]
+        },
+        {
+          "@type": "CategoryValuesPair",
+          "category": "origin_city",
+          "values": [
+            {
+              "@type": "Annotation",
+              "value": "Toronto"
+            }
+          ]
+        },
+        {
+          "@type": "CategoryValuesPair",
+          "category": "origin_province",
+          "values": [
+            {
+              "@type": "Annotation",
+              "value": "Ontario"
+            }
+          ]
+        },
+        {
+          "@type": "CategoryValuesPair",
+          "category": "origin_country",
+          "values": [
+            {
+              "@type": "Annotation",
+              "value": "Canada"
+            }
+          ]
         }
       ],
       "version": "1.0"
@@ -4289,7 +5169,7 @@
             "authorizations": [
               {
                 "@type": "Annotation",
-                "value": "Public"
+                "value": "private"
               }
             ]
           }
@@ -4405,6 +5285,50 @@
               "value": "logo.png"
             }
           ]
+        },
+        {
+          "@type": "CategoryValuesPair",
+          "category": "origin_institution",
+          "values": [
+            {
+              "@type": "Annotation",
+              "value": "Ontario Brain Institute"
+            },
+            {
+              "@type": "Annotation",
+              "value": "Mouse Imaging Centre"
+            }
+          ]
+        },
+        {
+          "@type": "CategoryValuesPair",
+          "category": "origin_city",
+          "values": [
+            {
+              "@type": "Annotation",
+              "value": "Toronto"
+            }
+          ]
+        },
+        {
+          "@type": "CategoryValuesPair",
+          "category": "origin_province",
+          "values": [
+            {
+              "@type": "Annotation",
+              "value": "Ontario"
+            }
+          ]
+        },
+        {
+          "@type": "CategoryValuesPair",
+          "category": "origin_country",
+          "values": [
+            {
+              "@type": "Annotation",
+              "value": "Canada"
+            }
+          ]
         }
       ],
       "version": "1.0"
@@ -4494,7 +5418,7 @@
             "authorizations": [
               {
                 "@type": "Annotation",
-                "value": "Public"
+                "value": "private"
               }
             ]
           }
@@ -4610,6 +5534,50 @@
               "value": "logo.png"
             }
           ]
+        },
+        {
+          "@type": "CategoryValuesPair",
+          "category": "origin_institution",
+          "values": [
+            {
+              "@type": "Annotation",
+              "value": "Ontario Brain Institute"
+            },
+            {
+              "@type": "Annotation",
+              "value": "Mouse Imaging Centre"
+            }
+          ]
+        },
+        {
+          "@type": "CategoryValuesPair",
+          "category": "origin_city",
+          "values": [
+            {
+              "@type": "Annotation",
+              "value": "Toronto"
+            }
+          ]
+        },
+        {
+          "@type": "CategoryValuesPair",
+          "category": "origin_province",
+          "values": [
+            {
+              "@type": "Annotation",
+              "value": "Ontario"
+            }
+          ]
+        },
+        {
+          "@type": "CategoryValuesPair",
+          "category": "origin_country",
+          "values": [
+            {
+              "@type": "Annotation",
+              "value": "Canada"
+            }
+          ]
         }
       ],
       "version": "1.0"
@@ -4699,7 +5667,7 @@
             "authorizations": [
               {
                 "@type": "Annotation",
-                "value": "Public"
+                "value": "private"
               }
             ]
           }
@@ -4815,6 +5783,50 @@
               "value": "logo.png"
             }
           ]
+        },
+        {
+          "@type": "CategoryValuesPair",
+          "category": "origin_institution",
+          "values": [
+            {
+              "@type": "Annotation",
+              "value": "Ontario Brain Institute"
+            },
+            {
+              "@type": "Annotation",
+              "value": "Mouse Imaging Centre"
+            }
+          ]
+        },
+        {
+          "@type": "CategoryValuesPair",
+          "category": "origin_city",
+          "values": [
+            {
+              "@type": "Annotation",
+              "value": "Toronto"
+            }
+          ]
+        },
+        {
+          "@type": "CategoryValuesPair",
+          "category": "origin_province",
+          "values": [
+            {
+              "@type": "Annotation",
+              "value": "Ontario"
+            }
+          ]
+        },
+        {
+          "@type": "CategoryValuesPair",
+          "category": "origin_country",
+          "values": [
+            {
+              "@type": "Annotation",
+              "value": "Canada"
+            }
+          ]
         }
       ],
       "version": "1.0"
@@ -4904,7 +5916,7 @@
             "authorizations": [
               {
                 "@type": "Annotation",
-                "value": "Public"
+                "value": "private"
               }
             ]
           }
@@ -5020,6 +6032,50 @@
               "value": "logo.png"
             }
           ]
+        },
+        {
+          "@type": "CategoryValuesPair",
+          "category": "origin_institution",
+          "values": [
+            {
+              "@type": "Annotation",
+              "value": "Ontario Brain Institute"
+            },
+            {
+              "@type": "Annotation",
+              "value": "Mouse Imaging Centre"
+            }
+          ]
+        },
+        {
+          "@type": "CategoryValuesPair",
+          "category": "origin_city",
+          "values": [
+            {
+              "@type": "Annotation",
+              "value": "Toronto"
+            }
+          ]
+        },
+        {
+          "@type": "CategoryValuesPair",
+          "category": "origin_province",
+          "values": [
+            {
+              "@type": "Annotation",
+              "value": "Ontario"
+            }
+          ]
+        },
+        {
+          "@type": "CategoryValuesPair",
+          "category": "origin_country",
+          "values": [
+            {
+              "@type": "Annotation",
+              "value": "Canada"
+            }
+          ]
         }
       ],
       "version": "1.0"
@@ -5109,7 +6165,7 @@
             "authorizations": [
               {
                 "@type": "Annotation",
-                "value": "Public"
+                "value": "private"
               }
             ]
           }
@@ -5225,6 +6281,50 @@
               "value": "logo.png"
             }
           ]
+        },
+        {
+          "@type": "CategoryValuesPair",
+          "category": "origin_institution",
+          "values": [
+            {
+              "@type": "Annotation",
+              "value": "Ontario Brain Institute"
+            },
+            {
+              "@type": "Annotation",
+              "value": "Mouse Imaging Centre"
+            }
+          ]
+        },
+        {
+          "@type": "CategoryValuesPair",
+          "category": "origin_city",
+          "values": [
+            {
+              "@type": "Annotation",
+              "value": "Toronto"
+            }
+          ]
+        },
+        {
+          "@type": "CategoryValuesPair",
+          "category": "origin_province",
+          "values": [
+            {
+              "@type": "Annotation",
+              "value": "Ontario"
+            }
+          ]
+        },
+        {
+          "@type": "CategoryValuesPair",
+          "category": "origin_country",
+          "values": [
+            {
+              "@type": "Annotation",
+              "value": "Canada"
+            }
+          ]
         }
       ],
       "version": "1.0"
@@ -5314,7 +6414,7 @@
             "authorizations": [
               {
                 "@type": "Annotation",
-                "value": "Public"
+                "value": "private"
               }
             ]
           }
@@ -5430,6 +6530,50 @@
               "value": "logo.png"
             }
           ]
+        },
+        {
+          "@type": "CategoryValuesPair",
+          "category": "origin_institution",
+          "values": [
+            {
+              "@type": "Annotation",
+              "value": "Ontario Brain Institute"
+            },
+            {
+              "@type": "Annotation",
+              "value": "Mouse Imaging Centre"
+            }
+          ]
+        },
+        {
+          "@type": "CategoryValuesPair",
+          "category": "origin_city",
+          "values": [
+            {
+              "@type": "Annotation",
+              "value": "Toronto"
+            }
+          ]
+        },
+        {
+          "@type": "CategoryValuesPair",
+          "category": "origin_province",
+          "values": [
+            {
+              "@type": "Annotation",
+              "value": "Ontario"
+            }
+          ]
+        },
+        {
+          "@type": "CategoryValuesPair",
+          "category": "origin_country",
+          "values": [
+            {
+              "@type": "Annotation",
+              "value": "Canada"
+            }
+          ]
         }
       ],
       "version": "1.0"
@@ -5519,7 +6663,7 @@
             "authorizations": [
               {
                 "@type": "Annotation",
-                "value": "Public"
+                "value": "private"
               }
             ]
           }
@@ -5633,6 +6777,50 @@
             {
               "@type": "Annotation",
               "value": "logo.png"
+            }
+          ]
+        },
+        {
+          "@type": "CategoryValuesPair",
+          "category": "origin_institution",
+          "values": [
+            {
+              "@type": "Annotation",
+              "value": "Ontario Brain Institute"
+            },
+            {
+              "@type": "Annotation",
+              "value": "Mouse Imaging Centre"
+            }
+          ]
+        },
+        {
+          "@type": "CategoryValuesPair",
+          "category": "origin_city",
+          "values": [
+            {
+              "@type": "Annotation",
+              "value": "Toronto"
+            }
+          ]
+        },
+        {
+          "@type": "CategoryValuesPair",
+          "category": "origin_province",
+          "values": [
+            {
+              "@type": "Annotation",
+              "value": "Ontario"
+            }
+          ]
+        },
+        {
+          "@type": "CategoryValuesPair",
+          "category": "origin_country",
+          "values": [
+            {
+              "@type": "Annotation",
+              "value": "Canada"
             }
           ]
         }
