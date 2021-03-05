@@ -51,7 +51,7 @@
   "availability": "available",
   "refinement": "Data provided includes both the raw data acquired from the scanner as well as the outputs of our registration process",
   "aggregation": "instance of dataset",
-  "privacy": "Registered access",
+  "privacy": "registered",
   "distributions": [
     {
       "formats": [
@@ -254,7 +254,7 @@
       "availability": "available",
       "refinement": "Data provided includes both the raw data acquired from the scanner as well as the outputs of our registration process",
       "aggregation": "instance of dataset",
-      "privacy": "Registered access",
+      "privacy": "registered",
       "distributions": [
         {
           "formats": [
@@ -457,7 +457,7 @@
       "availability": "available",
       "refinement": "Data provided includes both the raw data acquired from the scanner as well as the outputs of our registration process",
       "aggregation": "instance of dataset",
-      "privacy": "Registered access",
+      "privacy": "registered",
       "distributions": [
         {
           "formats": [
@@ -660,7 +660,7 @@
       "availability": "available",
       "refinement": "Data provided includes both the raw data acquired from the scanner as well as the outputs of our registration process",
       "aggregation": "instance of dataset",
-      "privacy": "Registered access",
+      "privacy": "registered",
       "distributions": [
         {
           "formats": [
@@ -863,7 +863,7 @@
       "availability": "available",
       "refinement": "Data provided includes both the raw data acquired from the scanner as well as the outputs of our registration process",
       "aggregation": "instance of dataset",
-      "privacy": "Registered access",
+      "privacy": "registered",
       "distributions": [
         {
           "formats": [
@@ -1066,7 +1066,7 @@
       "availability": "available",
       "refinement": "Data provided includes both the raw data acquired from the scanner as well as the outputs of our registration process",
       "aggregation": "instance of dataset",
-      "privacy": "Registered access",
+      "privacy": "registered",
       "distributions": [
         {
           "formats": [
@@ -1269,7 +1269,7 @@
       "availability": "available",
       "refinement": "Data provided includes both the raw data acquired from the scanner as well as the outputs of our registration process",
       "aggregation": "instance of dataset",
-      "privacy": "Registered access",
+      "privacy": "registered",
       "distributions": [
         {
           "formats": [
@@ -1472,7 +1472,7 @@
       "availability": "available",
       "refinement": "Data provided includes both the raw data acquired from the scanner as well as the outputs of our registration process",
       "aggregation": "instance of dataset",
-      "privacy": "Registered access",
+      "privacy": "registered",
       "distributions": [
         {
           "formats": [
@@ -1675,7 +1675,7 @@
       "availability": "available",
       "refinement": "Data provided includes both the raw data acquired from the scanner as well as the outputs of our registration process",
       "aggregation": "instance of dataset",
-      "privacy": "Registered access",
+      "privacy": "registered",
       "distributions": [
         {
           "formats": [
@@ -1878,7 +1878,7 @@
       "availability": "available",
       "refinement": "Data provided includes both the raw data acquired from the scanner as well as the outputs of our registration process",
       "aggregation": "instance of dataset",
-      "privacy": "Registered access",
+      "privacy": "registered",
       "distributions": [
         {
           "formats": [
@@ -2081,7 +2081,7 @@
       "availability": "available",
       "refinement": "Data provided includes both the raw data acquired from the scanner as well as the outputs of our registration process",
       "aggregation": "instance of dataset",
-      "privacy": "Registered access",
+      "privacy": "registered",
       "distributions": [
         {
           "formats": [
@@ -2284,7 +2284,7 @@
       "availability": "available",
       "refinement": "Data provided includes both the raw data acquired from the scanner as well as the outputs of our registration process",
       "aggregation": "instance of dataset",
-      "privacy": "Registered access",
+      "privacy": "registered",
       "distributions": [
         {
           "formats": [
@@ -2487,7 +2487,7 @@
       "availability": "available",
       "refinement": "Data provided includes both the raw data acquired from the scanner as well as the outputs of our registration process",
       "aggregation": "instance of dataset",
-      "privacy": "Registered access",
+      "privacy": "registered",
       "distributions": [
         {
           "formats": [
@@ -2690,7 +2690,7 @@
       "availability": "available",
       "refinement": "Data provided includes both the raw data acquired from the scanner as well as the outputs of our registration process",
       "aggregation": "instance of dataset",
-      "privacy": "Registered access",
+      "privacy": "registered",
       "distributions": [
         {
           "formats": [
@@ -2893,7 +2893,7 @@
       "availability": "available",
       "refinement": "Data provided includes both the raw data acquired from the scanner as well as the outputs of our registration process",
       "aggregation": "instance of dataset",
-      "privacy": "Registered access",
+      "privacy": "registered",
       "distributions": [
         {
           "formats": [
@@ -3096,7 +3096,7 @@
       "availability": "available",
       "refinement": "Data provided includes both the raw data acquired from the scanner as well as the outputs of our registration process",
       "aggregation": "instance of dataset",
-      "privacy": "Registered access",
+      "privacy": "registered",
       "distributions": [
         {
           "formats": [
@@ -3299,7 +3299,7 @@
       "availability": "available",
       "refinement": "Data provided includes both the raw data acquired from the scanner as well as the outputs of our registration process",
       "aggregation": "instance of dataset",
-      "privacy": "Registered access",
+      "privacy": "registered",
       "distributions": [
         {
           "formats": [
@@ -3502,7 +3502,7 @@
       "availability": "available",
       "refinement": "Data provided includes both the raw data acquired from the scanner as well as the outputs of our registration process",
       "aggregation": "instance of dataset",
-      "privacy": "Registered access",
+      "privacy": "registered",
       "distributions": [
         {
           "formats": [
@@ -3705,7 +3705,7 @@
       "availability": "available",
       "refinement": "Data provided includes both the raw data acquired from the scanner as well as the outputs of our registration process",
       "aggregation": "instance of dataset",
-      "privacy": "Registered access",
+      "privacy": "registered",
       "distributions": [
         {
           "formats": [
@@ -3908,7 +3908,7 @@
       "availability": "available",
       "refinement": "Data provided includes both the raw data acquired from the scanner as well as the outputs of our registration process",
       "aggregation": "instance of dataset",
-      "privacy": "Registered access",
+      "privacy": "registered",
       "distributions": [
         {
           "formats": [
@@ -4111,7 +4111,7 @@
       "availability": "available",
       "refinement": "Data provided includes both the raw data acquired from the scanner as well as the outputs of our registration process",
       "aggregation": "instance of dataset",
-      "privacy": "Registered access",
+      "privacy": "registered",
       "distributions": [
         {
           "formats": [
@@ -4314,7 +4314,7 @@
       "availability": "available",
       "refinement": "Data provided includes both the raw data acquired from the scanner as well as the outputs of our registration process",
       "aggregation": "instance of dataset",
-      "privacy": "Registered access",
+      "privacy": "registered",
       "distributions": [
         {
           "formats": [
@@ -4517,7 +4517,7 @@
       "availability": "available",
       "refinement": "Data provided includes both the raw data acquired from the scanner as well as the outputs of our registration process",
       "aggregation": "instance of dataset",
-      "privacy": "Registered access",
+      "privacy": "registered",
       "distributions": [
         {
           "formats": [
@@ -4720,7 +4720,7 @@
       "availability": "available",
       "refinement": "Data provided includes both the raw data acquired from the scanner as well as the outputs of our registration process",
       "aggregation": "instance of dataset",
-      "privacy": "Registered access",
+      "privacy": "registered",
       "distributions": [
         {
           "formats": [
@@ -4923,7 +4923,7 @@
       "availability": "available",
       "refinement": "Data provided includes both the raw data acquired from the scanner as well as the outputs of our registration process",
       "aggregation": "instance of dataset",
-      "privacy": "Registered access",
+      "privacy": "registered",
       "distributions": [
         {
           "formats": [
@@ -5126,7 +5126,7 @@
       "availability": "available",
       "refinement": "Data provided includes both the raw data acquired from the scanner as well as the outputs of our registration process",
       "aggregation": "instance of dataset",
-      "privacy": "Registered access",
+      "privacy": "registered",
       "distributions": [
         {
           "formats": [
@@ -5329,7 +5329,7 @@
       "availability": "available",
       "refinement": "Data provided includes both the raw data acquired from the scanner as well as the outputs of our registration process",
       "aggregation": "instance of dataset",
-      "privacy": "Registered access",
+      "privacy": "registered",
       "distributions": [
         {
           "formats": [
