@@ -38,11 +38,11 @@
   ],
   "types": [
     {
-	    "identifier": {
-            "identifier": "113091000",
-            "identifierSource":"http://purl.bioontology.org/ontology/SNOMEDCT/113091000"
-        },
-        "value": "MRI"
+      "identifier": {
+        "identifier": "113091000",
+        "identifierSource":"http://purl.bioontology.org/ontology/SNOMEDCT/113091000"
+      },
+      "value": "MRI"
     }
   ],
   "availability": "available",
@@ -238,14 +238,11 @@
       ],
       "types": [
         {
-          "information": {
-            "value": "MRI"
-          }
-        },
-        {
-          "information": {
-            "value": "Study Information"
-          }
+	      "identifier": {
+            "identifier": "113091000",
+            "identifierSource":"http://purl.bioontology.org/ontology/SNOMEDCT/113091000"
+          },
+          "value": "MRI"
         }
       ],
       "availability": "available",
@@ -441,14 +438,11 @@
       ],
       "types": [
         {
-          "information": {
-            "value": "MRI"
-          }
-        },
-        {
-          "information": {
-            "value": "Study Information"
-          }
+          "identifier": {
+            "identifier": "113091000",
+            "identifierSource":"http://purl.bioontology.org/ontology/SNOMEDCT/113091000"
+          },
+          "value": "MRI"
         }
       ],
       "availability": "available",
@@ -644,14 +638,11 @@
       ],
       "types": [
         {
-          "information": {
-            "value": "MRI"
-          }
-        },
-        {
-          "information": {
-            "value": "Study Information"
-          }
+          "identifier": {
+            "identifier": "113091000",
+            "identifierSource":"http://purl.bioontology.org/ontology/SNOMEDCT/113091000"
+          },
+          "value": "MRI"
         }
       ],
       "availability": "available",
@@ -847,14 +838,11 @@
       ],
       "types": [
         {
-          "information": {
-            "value": "MRI"
-          }
-        },
-        {
-          "information": {
-            "value": "Study Information"
-          }
+          "identifier": {
+            "identifier": "113091000",
+            "identifierSource":"http://purl.bioontology.org/ontology/SNOMEDCT/113091000"
+          },
+          "value": "MRI"
         }
       ],
       "availability": "available",
@@ -1050,14 +1038,11 @@
       ],
       "types": [
         {
-          "information": {
-            "value": "MRI"
-          }
-        },
-        {
-          "information": {
-            "value": "Study Information"
-          }
+          "identifier": {
+            "identifier": "113091000",
+            "identifierSource":"http://purl.bioontology.org/ontology/SNOMEDCT/113091000"
+          },
+          "value": "MRI"
         }
       ],
       "availability": "available",
@@ -1253,14 +1238,11 @@
       ],
       "types": [
         {
-          "information": {
-            "value": "MRI"
-          }
-        },
-        {
-          "information": {
-            "value": "Study Information"
-          }
+          "identifier": {
+            "identifier": "113091000",
+            "identifierSource":"http://purl.bioontology.org/ontology/SNOMEDCT/113091000"
+          },
+          "value": "MRI"
         }
       ],
       "availability": "available",
@@ -1456,14 +1438,11 @@
       ],
       "types": [
         {
-          "information": {
-            "value": "MRI"
-          }
-        },
-        {
-          "information": {
-            "value": "Study Information"
-          }
+          "identifier": {
+            "identifier": "113091000",
+            "identifierSource":"http://purl.bioontology.org/ontology/SNOMEDCT/113091000"
+          },
+          "value": "MRI"
         }
       ],
       "availability": "available",
@@ -1659,14 +1638,11 @@
       ],
       "types": [
         {
-          "information": {
-            "value": "MRI"
-          }
-        },
-        {
-          "information": {
-            "value": "Study Information"
-          }
+          "identifier": {
+            "identifier": "113091000",
+            "identifierSource":"http://purl.bioontology.org/ontology/SNOMEDCT/113091000"
+          },
+          "value": "MRI"
         }
       ],
       "availability": "available",
@@ -1862,14 +1838,11 @@
       ],
       "types": [
         {
-          "information": {
-            "value": "MRI"
-          }
-        },
-        {
-          "information": {
-            "value": "Study Information"
-          }
+          "identifier": {
+            "identifier": "113091000",
+            "identifierSource":"http://purl.bioontology.org/ontology/SNOMEDCT/113091000"
+          },
+          "value": "MRI"
         }
       ],
       "availability": "available",
@@ -2065,14 +2038,11 @@
       ],
       "types": [
         {
-          "information": {
-            "value": "MRI"
-          }
-        },
-        {
-          "information": {
-            "value": "Study Information"
-          }
+          "identifier": {
+            "identifier": "113091000",
+            "identifierSource":"http://purl.bioontology.org/ontology/SNOMEDCT/113091000"
+          },
+          "value": "MRI"
         }
       ],
       "availability": "available",
@@ -2268,14 +2238,11 @@
       ],
       "types": [
         {
-          "information": {
-            "value": "MRI"
-          }
-        },
-        {
-          "information": {
-            "value": "Study Information"
-          }
+          "identifier": {
+            "identifier": "113091000",
+            "identifierSource":"http://purl.bioontology.org/ontology/SNOMEDCT/113091000"
+          },
+          "value": "MRI"
         }
       ],
       "availability": "available",
@@ -2471,14 +2438,11 @@
       ],
       "types": [
         {
-          "information": {
-            "value": "MRI"
-          }
-        },
-        {
-          "information": {
-            "value": "Study Information"
-          }
+          "identifier": {
+            "identifier": "113091000",
+            "identifierSource":"http://purl.bioontology.org/ontology/SNOMEDCT/113091000"
+          },
+          "value": "MRI"
         }
       ],
       "availability": "available",
@@ -2674,14 +2638,11 @@
       ],
       "types": [
         {
-          "information": {
-            "value": "MRI"
-          }
-        },
-        {
-          "information": {
-            "value": "Study Information"
-          }
+          "identifier": {
+            "identifier": "113091000",
+            "identifierSource":"http://purl.bioontology.org/ontology/SNOMEDCT/113091000"
+          },
+          "value": "MRI"
         }
       ],
       "availability": "available",
@@ -2877,14 +2838,11 @@
       ],
       "types": [
         {
-          "information": {
-            "value": "MRI"
-          }
-        },
-        {
-          "information": {
-            "value": "Study Information"
-          }
+          "identifier": {
+            "identifier": "113091000",
+            "identifierSource":"http://purl.bioontology.org/ontology/SNOMEDCT/113091000"
+          },
+          "value": "MRI"
         }
       ],
       "availability": "available",
@@ -3080,14 +3038,11 @@
       ],
       "types": [
         {
-          "information": {
-            "value": "MRI"
-          }
-        },
-        {
-          "information": {
-            "value": "Study Information"
-          }
+          "identifier": {
+            "identifier": "113091000",
+            "identifierSource":"http://purl.bioontology.org/ontology/SNOMEDCT/113091000"
+          },
+          "value": "MRI"
         }
       ],
       "availability": "available",
@@ -3283,14 +3238,11 @@
       ],
       "types": [
         {
-          "information": {
-            "value": "MRI"
-          }
-        },
-        {
-          "information": {
-            "value": "Study Information"
-          }
+          "identifier": {
+            "identifier": "113091000",
+            "identifierSource":"http://purl.bioontology.org/ontology/SNOMEDCT/113091000"
+          },
+          "value": "MRI"
         }
       ],
       "availability": "available",
@@ -3486,14 +3438,11 @@
       ],
       "types": [
         {
-          "information": {
-            "value": "MRI"
-          }
-        },
-        {
-          "information": {
-            "value": "Study Information"
-          }
+          "identifier": {
+            "identifier": "113091000",
+            "identifierSource":"http://purl.bioontology.org/ontology/SNOMEDCT/113091000"
+          },
+          "value": "MRI"
         }
       ],
       "availability": "available",
@@ -3689,14 +3638,11 @@
       ],
       "types": [
         {
-          "information": {
-            "value": "MRI"
-          }
-        },
-        {
-          "information": {
-            "value": "Study Information"
-          }
+          "identifier": {
+            "identifier": "113091000",
+            "identifierSource":"http://purl.bioontology.org/ontology/SNOMEDCT/113091000"
+          },
+          "value": "MRI"
         }
       ],
       "availability": "available",
@@ -3892,14 +3838,11 @@
       ],
       "types": [
         {
-          "information": {
-            "value": "MRI"
-          }
-        },
-        {
-          "information": {
-            "value": "Study Information"
-          }
+          "identifier": {
+            "identifier": "113091000",
+            "identifierSource":"http://purl.bioontology.org/ontology/SNOMEDCT/113091000"
+          },
+          "value": "MRI"
         }
       ],
       "availability": "available",
@@ -4095,14 +4038,11 @@
       ],
       "types": [
         {
-          "information": {
-            "value": "MRI"
-          }
-        },
-        {
-          "information": {
-            "value": "Study Information"
-          }
+          "identifier": {
+            "identifier": "113091000",
+            "identifierSource":"http://purl.bioontology.org/ontology/SNOMEDCT/113091000"
+          },
+          "value": "MRI"
         }
       ],
       "availability": "available",
@@ -4298,14 +4238,11 @@
       ],
       "types": [
         {
-          "information": {
-            "value": "MRI"
-          }
-        },
-        {
-          "information": {
-            "value": "Study Information"
-          }
+          "identifier": {
+            "identifier": "113091000",
+            "identifierSource":"http://purl.bioontology.org/ontology/SNOMEDCT/113091000"
+          },
+          "value": "MRI"
         }
       ],
       "availability": "available",
@@ -4501,14 +4438,11 @@
       ],
       "types": [
         {
-          "information": {
-            "value": "MRI"
-          }
-        },
-        {
-          "information": {
-            "value": "Study Information"
-          }
+          "identifier": {
+            "identifier": "113091000",
+            "identifierSource":"http://purl.bioontology.org/ontology/SNOMEDCT/113091000"
+          },
+          "value": "MRI"
         }
       ],
       "availability": "available",
@@ -4704,14 +4638,11 @@
       ],
       "types": [
         {
-          "information": {
-            "value": "MRI"
-          }
-        },
-        {
-          "information": {
-            "value": "Study Information"
-          }
+          "identifier": {
+            "identifier": "113091000",
+            "identifierSource":"http://purl.bioontology.org/ontology/SNOMEDCT/113091000"
+          },
+          "value": "MRI"
         }
       ],
       "availability": "available",
@@ -4907,14 +4838,11 @@
       ],
       "types": [
         {
-          "information": {
-            "value": "MRI"
-          }
-        },
-        {
-          "information": {
-            "value": "Study Information"
-          }
+          "identifier": {
+            "identifier": "113091000",
+            "identifierSource":"http://purl.bioontology.org/ontology/SNOMEDCT/113091000"
+          },
+          "value": "MRI"
         }
       ],
       "availability": "available",
@@ -5110,14 +5038,11 @@
       ],
       "types": [
         {
-          "information": {
-            "value": "MRI"
-          }
-        },
-        {
-          "information": {
-            "value": "Study Information"
-          }
+          "identifier": {
+            "identifier": "113091000",
+            "identifierSource":"http://purl.bioontology.org/ontology/SNOMEDCT/113091000"
+          },
+          "value": "MRI"
         }
       ],
       "availability": "available",
@@ -5313,14 +5238,11 @@
       ],
       "types": [
         {
-          "information": {
-            "value": "MRI"
-          }
-        },
-        {
-          "information": {
-            "value": "Study Information"
-          }
+          "identifier": {
+            "identifier": "113091000",
+            "identifierSource":"http://purl.bioontology.org/ontology/SNOMEDCT/113091000"
+          },
+          "value": "MRI"
         }
       ],
       "availability": "available",
