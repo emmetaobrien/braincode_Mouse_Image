@@ -38,14 +38,11 @@
   ],
   "types": [
     {
-      "information": {
+	    "identifier": {
+            "identifier": "113091000",
+            "identifierSource":"http://purl.bioontology.org/ontology/SNOMEDCT/113091000"
+        },
         "value": "MRI"
-      }
-    },
-    {
-      "information": {
-        "value": "Study Information"
-      }
     }
   ],
   "availability": "available",
