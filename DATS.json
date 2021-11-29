@@ -1832,8 +1832,7 @@
           "information": {
             "value": "MRI",
             "valueIRI": "http://purl.bioontology.org/ontology/SNOMEDCT/113091000"
-          },
-          "value": "MRI"
+          }
         }
       ],
       "availability": "available",
