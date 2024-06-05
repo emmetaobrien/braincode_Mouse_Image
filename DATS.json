@@ -159,6 +159,14 @@
         }
       ]
     },
+	{
+      	"category": "registrationPage",
+      	"values": [
+        	{
+       			"value": "https://www.braincode.ca/user/register"
+        	}
+      	]
+    },
     {
       "category": "origin_institution",
       "values": [
@@ -5333,14 +5341,6 @@
             }
           ]
         },
-		{
-      		"category": "registrationPage",
-      		"values": [
-        		{
-          			"value": "https://www.braincode.ca/user/register"
-        		}
-      		]
-    	},
         {
           "category": "origin_institution",
           "values": [
